@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 303290511
+    locked: 0
+  - name: Background_Deco
+    uniqueID: 1252546873
+    locked: 0
+  - name: Gravestones_Buildings
+    uniqueID: 1553196543
+    locked: 0
+  - name: Interactibles
+    uniqueID: 1590016709
+    locked: 0
+  - name: NPCs
+    uniqueID: 2927766487
+    locked: 0
+  - name: Player
+    uniqueID: 949589935
+    locked: 0
+  - name: Foreground
+    uniqueID: 911620205
+    locked: 0
+  - name: UI
+    uniqueID: 3252496963
+    locked: 0
+  - name: Dialogue
+    uniqueID: 2055993719
+    locked: 0
+  m_RenderingLayers:
+  - Default
