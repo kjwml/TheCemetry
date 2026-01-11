@@ -837,8 +837,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7694952860417852047, guid: b603ffbfbc7150943b3b695037e2329b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6325857574608242584}
   m_SourcePrefab: {fileID: 100100000, guid: b603ffbfbc7150943b3b695037e2329b, type: 3}
+--- !u!1 &6325857574608242583 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7694952860417852047, guid: b603ffbfbc7150943b3b695037e2329b, type: 3}
+  m_PrefabInstance: {fileID: 6325857574608242582}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6325857574608242584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6325857574608242583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b3347ff817daa244a53d0758d180662, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: Wife
+    sentences:
+    - "Pardon? Yes. Yes, I\u2026 If you can clean his gravestone? Why would\u2026
+      I\u2019m not going to stop you, I\u2019m just curious as to why but\u2026 yes.
+      You may. Thank you."
 --- !u!1001 &9082484787746854071
 PrefabInstance:
   m_ObjectHideFlags: 0

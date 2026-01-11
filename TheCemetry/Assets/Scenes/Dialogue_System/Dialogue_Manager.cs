@@ -11,5 +11,8 @@ public class Dialogue_Manager : MonoBehaviour
     {
         sentences = new Queue<string>(); 
     }
-
+    public void StartDialogue(Dialogue dialogue)
+    {
+        Debug.Log("Starting conversation with " + dialogue.name);
+    }
 }
