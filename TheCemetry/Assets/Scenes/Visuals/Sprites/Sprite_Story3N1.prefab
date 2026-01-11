@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7694952860417852047
+--- !u!1 &3091795205781930493
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,38 +8,38 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8713072242067551286}
-  - component: {fileID: 8618464289144117917}
-  - component: {fileID: 2265542819039323628}
+  - component: {fileID: 7778775133343517920}
+  - component: {fileID: 5372620023245782391}
+  - component: {fileID: 7757223370766144022}
   m_Layer: 0
-  m_Name: Sprite_Story1Q
+  m_Name: Sprite_Story3N1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8713072242067551286
+--- !u!4 &7778775133343517920
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 3091795205781930493}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.19, y: 0.44, z: 0}
-  m_LocalScale: {x: 0.32269403, y: 0.35053805, z: 0.4728758}
+  m_LocalPosition: {x: 0.23, y: 0.45, z: 0}
+  m_LocalScale: {x: -0.30683854, y: 0.33331445, z: 0.4496412}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &8618464289144117917
+--- !u!212 &5372620023245782391
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 3091795205781930493}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -77,33 +77,40 @@ SpriteRenderer:
   m_SortingLayerID: -1367200809
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6478098697846248864, guid: 16d65f8a3fabd01409c6472ab9b11579, type: 3}
+  m_Sprite: {fileID: -2813265482099775118, guid: 1a3fb17a1149ac94bb6354079a747ed5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 4.48, y: 11.77}
+  m_Size: {x: 4.4, y: 12.86}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2265542819039323628
+--- !u!114 &7757223370766144022
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 3091795205781930493}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d206be1b5c0d5a34e81fe64c7f4e3cd4, type: 3}
+  m_Script: {fileID: 11500000, guid: 7b3347ff817daa244a53d0758d180662, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
-    name: Wife
+    name: Stranger
     sentences:
-    - "Pardon? Yes. Yes, I\u2026 If you can clean his gravestone? Why would\u2026
-      I\u2019m not going to stop you, I\u2019m just curious as to why but\u2026 yes.
-      You may. Thank you."
-    - 
+    - "I didn\u2019t know her. I want to be clear about that. I came because I didn\u2019t
+      want her to disappear into headlines. "
+    - "I learned her name the same way I learned the others\u2019. From a list. That
+      didn\u2019t feel right."
+    - There were a lot of people at the vigil. Someone brought fabric, tied it where
+      people could see it move in the wind. Someone else lit something and stayed
+      until it burned down. No one told them to. It just felt wrong to leave things
+      bare.
+    - "I want to stand by her regardless. To remember one person, properly, even
+      if I\u2019m late. There are a lot of us like that. Standing quietly. Trying
+      not to take up too much space. I hope that\u2019s okay."

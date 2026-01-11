@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7694952860417852047
+--- !u!1 &2731446832972969381
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,38 +8,39 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8713072242067551286}
-  - component: {fileID: 8618464289144117917}
-  - component: {fileID: 2265542819039323628}
+  - component: {fileID: 4542547177924557399}
+  - component: {fileID: 2795491972841015618}
+  - component: {fileID: 3510022130339789060}
+  - component: {fileID: 2463835955353337762}
   m_Layer: 0
-  m_Name: Sprite_Story1Q
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8713072242067551286
+--- !u!4 &4542547177924557399
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 2731446832972969381}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.19, y: 0.44, z: 0}
-  m_LocalScale: {x: 0.32269403, y: 0.35053805, z: 0.4728758}
+  m_LocalPosition: {x: -7.86, y: -0.02, z: 0}
+  m_LocalScale: {x: 0.36968622, y: 0.40158498, z: 0.54173815}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &8618464289144117917
+--- !u!212 &2795491972841015618
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 2731446832972969381}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -74,36 +75,49 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1367200809
-  m_SortingLayer: 5
+  m_SortingLayerID: 949589935
+  m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6478098697846248864, guid: 16d65f8a3fabd01409c6472ab9b11579, type: 3}
+  m_Sprite: {fileID: 6094196622748527389, guid: af0baaa4d6f23f54fb9f05f612e562c1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 4.48, y: 11.77}
+  m_Size: {x: 3.43, y: 10.24}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2265542819039323628
+--- !u!114 &3510022130339789060
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7694952860417852047}
+  m_GameObject: {fileID: 2731446832972969381}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d206be1b5c0d5a34e81fe64c7f4e3cd4, type: 3}
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue:
-    name: Wife
-    sentences:
-    - "Pardon? Yes. Yes, I\u2026 If you can clean his gravestone? Why would\u2026
-      I\u2019m not going to stop you, I\u2019m just curious as to why but\u2026 yes.
-      You may. Thank you."
-    - 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &2463835955353337762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2731446832972969381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 17773642efac94e06ace57201e3e5958, type: 2}
