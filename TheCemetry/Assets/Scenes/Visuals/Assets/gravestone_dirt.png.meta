@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 608ab384fbe9184489e465add0801d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 217465263455764100
+    second: gravestone_dirt_0
+  - first:
+      213: 560615494576005579
+    second: gravestone_dirt_1
+  - first:
+      213: 7402841347938752830
+    second: gravestone_dirt_2
+  - first:
+      213: 9049590077887249341
+    second: gravestone_dirt_3
+  - first:
+      213: -6619753120547982833
+    second: gravestone_dirt_4
+  - first:
+      213: -6115109472324278520
+    second: gravestone_dirt_5
+  - first:
+      213: -512043296661128148
+    second: gravestone_dirt_6
+  - first:
+      213: -7194822048017356095
+    second: gravestone_dirt_7
+  - first:
+      213: 7207436101750007485
+    second: gravestone_dirt_8
+  - first:
+      213: 7267075003009695721
+    second: gravestone_dirt_9
+  - first:
+      213: 4771690970466519764
+    second: gravestone_dirt_10
+  - first:
+      213: 7861822540167711828
+    second: gravestone_dirt_11
+  - first:
+      213: -9118606711888306345
+    second: gravestone_dirt_12
+  - first:
+      213: -8143012904860384452
+    second: gravestone_dirt_13
+  - first:
+      213: -4859992539403450241
+    second: gravestone_dirt_14
+  - first:
+      213: -3622639977571618299
+    second: gravestone_dirt_15
+  - first:
+      213: -3474397666057839314
+    second: gravestone_dirt_16
+  - first:
+      213: 5135927480763100424
+    second: gravestone_dirt_17
+  - first:
+      213: 7199022200848799335
+    second: gravestone_dirt_18
+  - first:
+      213: 9014953440425631845
+    second: gravestone_dirt_19
+  - first:
+      213: -2871257269223572990
+    second: gravestone_dirt_20
+  - first:
+      213: 7955189417242142005
+    second: gravestone_dirt_21
+  - first:
+      213: 1248436308766238083
+    second: gravestone_dirt_22
+  - first:
+      213: -7245896324454288130
+    second: gravestone_dirt_23
+  - first:
+      213: -7265425564228835369
+    second: gravestone_dirt_24
+  - first:
+      213: -7314076861975327412
+    second: gravestone_dirt_25
+  - first:
+      213: -3304741093646239450
+    second: gravestone_dirt_26
+  - first:
+      213: 388535892302444523
+    second: gravestone_dirt_27
+  - first:
+      213: -4415885652113826661
+    second: gravestone_dirt_28
+  - first:
+      213: 4895131102571300270
+    second: gravestone_dirt_29
+  - first:
+      213: -2674804727349211902
+    second: gravestone_dirt_30
+  - first:
+      213: -2649605209766912608
+    second: gravestone_dirt_31
+  - first:
+      213: 2016281325223575878
+    second: gravestone_dirt_32
+  - first:
+      213: 2271892423725964669
+    second: gravestone_dirt_33
+  - first:
+      213: 310330505012242367
+    second: gravestone_dirt_34
+  - first:
+      213: -8530448303609317545
+    second: gravestone_dirt_35
+  - first:
+      213: -1262238746985198703
+    second: gravestone_dirt_36
+  - first:
+      213: 1625386076630566720
+    second: gravestone_dirt_37
+  - first:
+      213: -2090597639071214475
+    second: gravestone_dirt_38
+  - first:
+      213: -6467753686099845048
+    second: gravestone_dirt_39
+  - first:
+      213: 3404340505640122680
+    second: gravestone_dirt_40
+  - first:
+      213: 7948299231083846246
+    second: gravestone_dirt_41
+  - first:
+      213: 8515600060421022848
+    second: gravestone_dirt_42
+  - first:
+      213: -7728583019107321802
+    second: gravestone_dirt_43
+  - first:
+      213: -520850703672523295
+    second: gravestone_dirt_44
+  - first:
+      213: 2868958036535612569
+    second: gravestone_dirt_45
+  - first:
+      213: 2029095011163633290
+    second: gravestone_dirt_46
+  - first:
+      213: -2969489993154288378
+    second: gravestone_dirt_47
+  - first:
+      213: -3814491256527756234
+    second: gravestone_dirt_48
+  - first:
+      213: -4756414653353305231
+    second: gravestone_dirt_49
+  - first:
+      213: -8190680326094558771
+    second: gravestone_dirt_50
+  - first:
+      213: -7202389682185700283
+    second: gravestone_dirt_51
+  - first:
+      213: 5066298456413536666
+    second: gravestone_dirt_52
+  - first:
+      213: -2594427130898759914
+    second: gravestone_dirt_53
+  - first:
+      213: -3729747517512476325
+    second: gravestone_dirt_54
+  - first:
+      213: 3751745917631861586
+    second: gravestone_dirt_55
+  - first:
+      213: -4377789261926938784
+    second: gravestone_dirt_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gravestone_dirt_0
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1016
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e74434187940300800000000000000
+      internalID: 217465263455764100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_1
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1034
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc168c172d4b7c700800000000000000
+      internalID: 560615494576005579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1017
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399678ebfc2cb660800000000000000
+      internalID: 7402841347938752830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 968
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb7e53aa3a969d70800000000000000
+      internalID: 9049590077887249341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 321
+        width: 320
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0234fc1c99e124a0800000000000000
+      internalID: -6619753120547982833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 937
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8072c7b8554c22ba0800000000000000
+      internalID: -6115109472324278520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 907
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb4e8a55bd4e8f0800000000000000
+      internalID: -512043296661128148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_7
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 896
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae6c5977bd62c90800000000000000
+      internalID: -7194822048017356095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 873
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a22aa2f4f50460800000000000000
+      internalID: 7207436101750007485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 859
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef738e6636d9d460800000000000000
+      internalID: 7267075003009695721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 716
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8898f7a3783240800000000000000
+      internalID: 4771690970466519764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 795
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0bd152fdca1d60800000000000000
+      internalID: 7861822540167711828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 681
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f976b0283347180800000000000000
+      internalID: -9118606711888306345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 665
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33006418e43efe80800000000000000
+      internalID: -8143012904860384452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 683
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f780fc5e886dd8cb0800000000000000
+      internalID: -4859992539403450241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 686
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f6bb422cc9bdc0800000000000000
+      internalID: -3622639977571618299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_16
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 660
+        width: 10
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1d2a1bb578cfc0800000000000000
+      internalID: -3474397666057839314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 593
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d2d0b15da764740800000000000000
+      internalID: 5135927480763100424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_18
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 575
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7665eb3bc8018e360800000000000000
+      internalID: 7199022200848799335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 468
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560614b046c8b1d70800000000000000
+      internalID: 9014953440425631845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 433
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abb29e9be3728d0800000000000000
+      internalID: -2871257269223572990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 450
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5352aa760a2866e60800000000000000
+      internalID: 7955189417242142005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 434
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38526b45536535110800000000000000
+      internalID: 1248436308766238083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_23
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 364
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4f79deea7617b90800000000000000
+      internalID: -7245896324454288130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 398
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7291671f50c2b90800000000000000
+      internalID: -7265425564228835369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 380
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8e0e78dd2f7a90800000000000000
+      internalID: -7314076861975327412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 349
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629749e0c733322d0800000000000000
+      internalID: -3304741093646239450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_27
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73d23e55b546500800000000000000
+      internalID: 388535892302444523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_28
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 255
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd201556f97b2c0800000000000000
+      internalID: -4415885652113826661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_29
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 331
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea58ab16dcffee340800000000000000
+      internalID: 4895131102571300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_30
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 336
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d80dea54f21ead0800000000000000
+      internalID: -2674804727349211902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_31
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 302
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad91d49916ba3bd0800000000000000
+      internalID: -2649605209766912608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 237
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641843dbe254bfb10800000000000000
+      internalID: 2016281325223575878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_33
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 280
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d56145f12678f10800000000000000
+      internalID: 2271892423725964669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_34
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 259
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e83a33f38e4400800000000000000
+      internalID: 310330505012242367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_35
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7577880d672cd9980800000000000000
+      internalID: -8530448303609317545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_36
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 265
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b86381c80ab7ee0800000000000000
+      internalID: -1262238746985198703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 163
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474e6866088e8610800000000000000
+      internalID: 1625386076630566720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_38
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 222
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d3e21684bcf2e0800000000000000
+      internalID: -2090597639071214475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_39
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840ab454a4ced36a0800000000000000
+      internalID: -6467753686099845048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_40
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 187
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839372527a5ae3f20800000000000000
+      internalID: 3404340505640122680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_41
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 245
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a534de9080e4e60800000000000000
+      internalID: 7948299231083846246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_42
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 224
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a0ba232d7d2670800000000000000
+      internalID: 8515600060421022848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_43
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 253
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638fdf021be8eb490800000000000000
+      internalID: -7728583019107321802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_44
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 200
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5469a6b0195c8f0800000000000000
+      internalID: -520850703672523295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_45
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 190
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9941533422690d720800000000000000
+      internalID: 2868958036535612569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_46
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 248
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86fceb792bc82c10800000000000000
+      internalID: 2029095011163633290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_47
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 186
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60526f195904ac6d0800000000000000
+      internalID: -2969489993154288378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_48
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63464d78964301bc0800000000000000
+      internalID: -3814491256527756234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 134
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd966c212ddfdb0800000000000000
+      internalID: -4756414653353305231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_50
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 120
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96a56b3abd45e80800000000000000
+      internalID: -8190680326094558771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 10
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cf1637eb8fb0c90800000000000000
+      internalID: -7202389682185700283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_52
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 107
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9183ac8a9b1f4640800000000000000
+      internalID: 5066298456413536666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_53
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 65
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb423354ebefbd0800000000000000
+      internalID: -2594427130898759914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_54
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 71
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5916c4d4664d3cc0800000000000000
+      internalID: -3729747517512476325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_55
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 35
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25318f3d801e01430800000000000000
+      internalID: 3751745917631861586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone_dirt_56
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067435d5cd7fe33c0800000000000000
+      internalID: -4377789261926938784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gravestone_dirt_0: 217465263455764100
+      gravestone_dirt_1: 560615494576005579
+      gravestone_dirt_10: 4771690970466519764
+      gravestone_dirt_11: 7861822540167711828
+      gravestone_dirt_12: -9118606711888306345
+      gravestone_dirt_13: -8143012904860384452
+      gravestone_dirt_14: -4859992539403450241
+      gravestone_dirt_15: -3622639977571618299
+      gravestone_dirt_16: -3474397666057839314
+      gravestone_dirt_17: 5135927480763100424
+      gravestone_dirt_18: 7199022200848799335
+      gravestone_dirt_19: 9014953440425631845
+      gravestone_dirt_2: 7402841347938752830
+      gravestone_dirt_20: -2871257269223572990
+      gravestone_dirt_21: 7955189417242142005
+      gravestone_dirt_22: 1248436308766238083
+      gravestone_dirt_23: -7245896324454288130
+      gravestone_dirt_24: -7265425564228835369
+      gravestone_dirt_25: -7314076861975327412
+      gravestone_dirt_26: -3304741093646239450
+      gravestone_dirt_27: 388535892302444523
+      gravestone_dirt_28: -4415885652113826661
+      gravestone_dirt_29: 4895131102571300270
+      gravestone_dirt_3: 9049590077887249341
+      gravestone_dirt_30: -2674804727349211902
+      gravestone_dirt_31: -2649605209766912608
+      gravestone_dirt_32: 2016281325223575878
+      gravestone_dirt_33: 2271892423725964669
+      gravestone_dirt_34: 310330505012242367
+      gravestone_dirt_35: -8530448303609317545
+      gravestone_dirt_36: -1262238746985198703
+      gravestone_dirt_37: 1625386076630566720
+      gravestone_dirt_38: -2090597639071214475
+      gravestone_dirt_39: -6467753686099845048
+      gravestone_dirt_4: -6619753120547982833
+      gravestone_dirt_40: 3404340505640122680
+      gravestone_dirt_41: 7948299231083846246
+      gravestone_dirt_42: 8515600060421022848
+      gravestone_dirt_43: -7728583019107321802
+      gravestone_dirt_44: -520850703672523295
+      gravestone_dirt_45: 2868958036535612569
+      gravestone_dirt_46: 2029095011163633290
+      gravestone_dirt_47: -2969489993154288378
+      gravestone_dirt_48: -3814491256527756234
+      gravestone_dirt_49: -4756414653353305231
+      gravestone_dirt_5: -6115109472324278520
+      gravestone_dirt_50: -8190680326094558771
+      gravestone_dirt_51: -7202389682185700283
+      gravestone_dirt_52: 5066298456413536666
+      gravestone_dirt_53: -2594427130898759914
+      gravestone_dirt_54: -3729747517512476325
+      gravestone_dirt_55: 3751745917631861586
+      gravestone_dirt_56: -4377789261926938784
+      gravestone_dirt_6: -512043296661128148
+      gravestone_dirt_7: -7194822048017356095
+      gravestone_dirt_8: 7207436101750007485
+      gravestone_dirt_9: 7267075003009695721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
