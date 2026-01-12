@@ -129,7 +129,8 @@ GameObject:
   m_Component:
   - component: {fileID: 62308203}
   - component: {fileID: 62308204}
-  m_Layer: 0
+  - component: {fileID: 62308205}
+  m_Layer: 1
   m_Name: gravestone_dirt_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -206,6 +207,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &62308205
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 62308202}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.35}
+    newSize: {x: 0.14, y: 0.35}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.175}
+      - {x: -0.1664349, y: 0.054077968}
+      - {x: -0.1028624, y: -0.14157799}
+      - {x: 0.10286244, y: -0.14157796}
+      - {x: 0.16643488, y: 0.054077994}
+  m_UseDelaunayMesh: 0
 --- !u!1 &98882389
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,7 +269,8 @@ GameObject:
   m_Component:
   - component: {fileID: 98882390}
   - component: {fileID: 98882391}
-  m_Layer: 0
+  - component: {fileID: 98882392}
+  m_Layer: 1
   m_Name: gravestone_dirt_45
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,6 +347,61 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &98882392
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98882389}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.35, y: 0.24}
+    newSize: {x: 0.35, y: 0.24}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.065, y: 0.11}
+      - {x: -0.095, y: 0.049999997}
+      - {x: -0.095, y: -0.06}
+      - {x: -0.035, y: -0.08}
+      - {x: 0.085, y: -0.08}
+      - {x: 0.16499999, y: -0.02}
+      - {x: 0.16499999, y: 0.06}
+      - {x: 0.114999995, y: 0.11}
+  m_UseDelaunayMesh: 0
 --- !u!1 &295214186
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,7 +504,8 @@ GameObject:
   m_Component:
   - component: {fileID: 487894223}
   - component: {fileID: 487894224}
-  m_Layer: 0
+  - component: {fileID: 487894225}
+  m_Layer: 1
   m_Name: gravestone_dirt_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -472,6 +582,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &487894225
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 487894222}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.06, y: 0.06}
+    newSize: {x: 0.06, y: 0.06}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.03}
+      - {x: -0.028531695, y: 0.009270509}
+      - {x: -0.017633555, y: -0.024270512}
+      - {x: 0.017633561, y: -0.024270508}
+      - {x: 0.028531693, y: 0.009270513}
+  m_UseDelaunayMesh: 0
 --- !u!1 &489095595
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,7 +644,8 @@ GameObject:
   m_Component:
   - component: {fileID: 489095596}
   - component: {fileID: 489095597}
-  m_Layer: 0
+  - component: {fileID: 489095598}
+  m_Layer: 1
   m_Name: gravestone_dirt_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -559,6 +722,60 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &489095598
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 489095595}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.21, y: 0.22}
+    newSize: {x: 0.21, y: 0.22}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.044999998, y: 0.089999996}
+      - {x: -0.044999998, y: 0.089999996}
+      - {x: -0.095, y: 0.03}
+      - {x: -0.095, y: -0.08}
+      - {x: -0.055, y: -0.099999994}
+      - {x: 0.085, y: -0.099999994}
+      - {x: 0.085, y: 0.08}
+  m_UseDelaunayMesh: 0
 --- !u!1 &668776106
 GameObject:
   m_ObjectHideFlags: 0
@@ -569,7 +786,8 @@ GameObject:
   m_Component:
   - component: {fileID: 668776107}
   - component: {fileID: 668776108}
-  m_Layer: 0
+  - component: {fileID: 668776109}
+  m_Layer: 1
   m_Name: gravestone_dirt_23 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,6 +864,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &668776109
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 668776106}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.38, y: 0.7}
+    newSize: {x: 0.38, y: 0.7}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.19, y: -0.35}
+      - {x: -0.099999994, y: -0.35}
+      - {x: -0.11, y: -0.31}
+      - {x: -0.14999999, y: -0.28}
+      - {x: -0.19, y: -0.26999998}
+    - - {x: 0.13, y: 0.32}
+      - {x: 0, y: 0.32}
+      - {x: -0.049999997, y: 0.24}
+      - {x: -0.099999994, y: -0.089999996}
+      - {x: -0.099999994, y: -0.26}
+      - {x: -0.04, y: -0.32999998}
+      - {x: 0.07, y: -0.32999998}
+      - {x: 0.17999999, y: -0.22999999}
+      - {x: 0.17999999, y: 0.31}
+  m_UseDelaunayMesh: 0
 --- !u!1 &672186580
 GameObject:
   m_ObjectHideFlags: 0
@@ -656,7 +935,8 @@ GameObject:
   m_Component:
   - component: {fileID: 672186581}
   - component: {fileID: 672186582}
-  m_Layer: 0
+  - component: {fileID: 672186583}
+  m_Layer: 1
   m_Name: gravestone_dirt_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -733,6 +1013,67 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &672186583
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 672186580}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.38, y: 0.7}
+    newSize: {x: 0.38, y: 0.7}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.19, y: -0.35}
+      - {x: -0.099999994, y: -0.35}
+      - {x: -0.11, y: -0.31}
+      - {x: -0.14999999, y: -0.28}
+      - {x: -0.19, y: -0.26999998}
+    - - {x: 0.13, y: 0.32}
+      - {x: 0, y: 0.32}
+      - {x: -0.049999997, y: 0.24}
+      - {x: -0.099999994, y: -0.089999996}
+      - {x: -0.099999994, y: -0.26}
+      - {x: -0.04, y: -0.32999998}
+      - {x: 0.07, y: -0.32999998}
+      - {x: 0.17999999, y: -0.22999999}
+      - {x: 0.17999999, y: 0.31}
+  m_UseDelaunayMesh: 0
 --- !u!1 &739282027
 GameObject:
   m_ObjectHideFlags: 0
@@ -742,7 +1083,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 739282028}
-  m_Layer: 0
+  - component: {fileID: 739282030}
+  - component: {fileID: 739282029}
+  m_Layer: 1
   m_Name: Dirt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -779,6 +1122,37 @@ Transform:
   - {fileID: 2096345954}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &739282029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739282027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: b9b6d64684f39484d936d793c66e9b27, type: 2}
+--- !u!114 &739282030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739282027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &771254031
 GameObject:
   m_ObjectHideFlags: 0
@@ -876,7 +1250,8 @@ GameObject:
   m_Component:
   - component: {fileID: 866087277}
   - component: {fileID: 866087278}
-  m_Layer: 0
+  - component: {fileID: 866087279}
+  m_Layer: 1
   m_Name: gravestone_dirt_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -953,6 +1328,204 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &866087279
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 866087276}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.2, y: 7.07}
+    newSize: {x: 3.2, y: 7.07}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.14, y: -3.0049999}
+      - {x: -0.39999998, y: -3.3249998}
+      - {x: -0.44, y: -3.455}
+      - {x: -0.44, y: -3.5349998}
+      - {x: 0.24, y: -3.5349998}
+      - {x: 0.24, y: -3.355}
+      - {x: 0.11, y: -3.0049999}
+    - - {x: 0.19, y: -2.435}
+      - {x: 0.12, y: -2.585}
+      - {x: 0.099999994, y: -2.835}
+      - {x: 0.099999994, y: -3.0149999}
+      - {x: 0.14, y: -3.085}
+      - {x: 0.29, y: -3.085}
+      - {x: 0.35999998, y: -3.0649998}
+      - {x: 0.38, y: -2.845}
+      - {x: 0.38, y: -2.445}
+      - {x: 0.35, y: -2.435}
+    - - {x: -0.32, y: -1.525}
+      - {x: -0.22, y: -1.685}
+      - {x: -0.16, y: -1.7149999}
+      - {x: -0.049999997, y: -1.5949999}
+      - {x: -0.03, y: -1.3149999}
+      - {x: -0.01, y: -0.895}
+      - {x: 0.03, y: -0.835}
+      - {x: 0.11, y: -0.635}
+      - {x: 0.11, y: -0.235}
+      - {x: 0.089999996, y: 0.16499999}
+      - {x: 0.099999994, y: 0.315}
+      - {x: 0.11, y: 0.685}
+      - {x: 0.089999996, y: 0.685}
+      - {x: 0.099999994, y: 1.3149999}
+      - {x: 0.14, y: 1.635}
+      - {x: 0.22, y: 1.8349999}
+      - {x: 0.24, y: 1.735}
+      - {x: 0.25, y: 1.375}
+      - {x: 0.29999998, y: 1.245}
+      - {x: 0.35999998, y: 1.2049999}
+      - {x: 0.42, y: 1.185}
+      - {x: 0.52, y: 1.235}
+      - {x: 0.53, y: 1.545}
+      - {x: 0.59999996, y: 1.5949999}
+      - {x: 0.65999997, y: 1.655}
+      - {x: 0.7, y: 1.7049999}
+      - {x: 0.71, y: 1.915}
+      - {x: 0.71, y: 2.2649999}
+      - {x: 0.78999996, y: 2.365}
+      - {x: 0.81, y: 2.5549998}
+      - {x: 0.87, y: 2.665}
+      - {x: 0.87, y: 2.985}
+      - {x: 0.82, y: 3.095}
+      - {x: 0.72999996, y: 3.185}
+      - {x: 0.62, y: 3.2549999}
+      - {x: 0.37, y: 3.365}
+      - {x: 0.22999999, y: 3.365}
+      - {x: 0.08, y: 3.345}
+      - {x: -0.17999999, y: 3.335}
+      - {x: -0.34, y: 3.2949998}
+      - {x: -0.39999998, y: 3.215}
+      - {x: -0.41, y: 3.135}
+      - {x: -0.39, y: 2.995}
+      - {x: -0.28, y: 2.7549999}
+      - {x: -0.25, y: 2.405}
+      - {x: -0.24, y: 2.085}
+      - {x: -0.19, y: 1.555}
+      - {x: -0.19, y: 1.175}
+      - {x: -0.21, y: 1.045}
+      - {x: -0.25, y: 0.515}
+      - {x: -0.26, y: 0.085}
+      - {x: -0.37, y: -0.155}
+      - {x: -0.65, y: -0.155}
+      - {x: -0.77, y: -0.035}
+      - {x: -0.85999995, y: 0.035}
+      - {x: -0.97999996, y: 0.005}
+      - {x: -1.0699999, y: -0.055}
+      - {x: -1.15, y: -0.185}
+      - {x: -1.15, y: -0.36499998}
+      - {x: -1.14, y: -0.39499998}
+      - {x: -0.96, y: -0.565}
+      - {x: -0.96, y: -0.905}
+      - {x: -0.91999996, y: -1.035}
+      - {x: -0.78, y: -1.155}
+      - {x: -0.68, y: -1.1949999}
+      - {x: -0.62, y: -1.385}
+      - {x: -0.62, y: -1.7249999}
+      - {x: -0.64, y: -1.915}
+      - {x: -0.68, y: -2.2649999}
+      - {x: -0.65999997, y: -2.5249999}
+      - {x: -0.62, y: -2.635}
+      - {x: -0.52, y: -2.725}
+      - {x: -0.39999998, y: -2.725}
+      - {x: -0.32, y: -2.635}
+      - {x: -0.29, y: -2.2649999}
+      - {x: -0.29999998, y: -1.805}
+    - - {x: -1.06, y: -1.0849999}
+      - {x: -1.13, y: -1.1949999}
+      - {x: -1.17, y: -1.355}
+      - {x: -1.17, y: -1.545}
+      - {x: -1.11, y: -1.645}
+      - {x: -0.95, y: -1.645}
+      - {x: -0.88, y: -1.505}
+      - {x: -0.88, y: -1.145}
+      - {x: -0.96, y: -1.0849999}
+    - - {x: 0.53999996, y: -0.375}
+      - {x: 0.53999996, y: -0.145}
+      - {x: 0.53, y: -0.105}
+      - {x: 0.47, y: -0.044999998}
+      - {x: 0.32999998, y: -0.044999998}
+      - {x: 0.24, y: -0.095}
+      - {x: 0.19999999, y: -0.255}
+      - {x: 0.19999999, y: -0.715}
+      - {x: 0.21, y: -0.765}
+      - {x: 0.29, y: -0.78499997}
+      - {x: 0.37, y: -0.78499997}
+      - {x: 0.42999998, y: -0.72499996}
+      - {x: 0.44, y: -0.60499996}
+      - {x: 0.52, y: -0.45499998}
+    - - {x: -0.98999995, y: 0.355}
+      - {x: -1.1, y: 0.225}
+      - {x: -1.1, y: 0.114999995}
+      - {x: -1.05, y: 0.055}
+      - {x: -0.9, y: 0.055}
+      - {x: -0.79999995, y: 0.085}
+      - {x: -0.79999995, y: 0.295}
+      - {x: -0.90999997, y: 0.355}
+    - - {x: -1.1899999, y: 0.36499998}
+      - {x: -1.29, y: 0.36499998}
+      - {x: -1.3299999, y: 0.325}
+      - {x: -1.3299999, y: 0.195}
+      - {x: -1.31, y: 0.145}
+      - {x: -1.16, y: 0.145}
+      - {x: -1.13, y: 0.205}
+      - {x: -1.13, y: 0.325}
+      - {x: -1.15, y: 0.355}
+    - - {x: -0.53, y: 2.845}
+      - {x: -0.59999996, y: 2.7849998}
+      - {x: -0.65999997, y: 2.645}
+      - {x: -0.68, y: 2.5049999}
+      - {x: -0.68, y: 2.195}
+      - {x: -0.66999996, y: 2.0249999}
+      - {x: -0.61, y: 1.9549999}
+      - {x: -0.47, y: 1.9549999}
+      - {x: -0.38, y: 2.0249999}
+      - {x: -0.38, y: 2.7649999}
+      - {x: -0.44, y: 2.845}
+    - - {x: -0.78, y: 3.0649998}
+      - {x: -0.81, y: 2.995}
+      - {x: -0.81, y: 2.845}
+      - {x: -0.77, y: 2.7949998}
+      - {x: -0.66999996, y: 2.7949998}
+      - {x: -0.59, y: 2.845}
+      - {x: -0.59, y: 3.0649998}
+  m_UseDelaunayMesh: 0
 --- !u!1 &902764755
 GameObject:
   m_ObjectHideFlags: 0
@@ -963,7 +1536,8 @@ GameObject:
   m_Component:
   - component: {fileID: 902764756}
   - component: {fileID: 902764757}
-  m_Layer: 0
+  - component: {fileID: 902764758}
+  m_Layer: 1
   m_Name: gravestone_dirt_13 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1040,6 +1614,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &902764758
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902764755}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.18, y: 0.29}
+    newSize: {x: 0.18, y: 0.29}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.145}
+      - {x: -0.1379032, y: 0.04480746}
+      - {x: -0.08522885, y: -0.11730747}
+      - {x: 0.085228875, y: -0.117307454}
+      - {x: 0.13790318, y: 0.044807483}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1159025836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1050,7 +1676,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1159025837}
   - component: {fileID: 1159025838}
-  m_Layer: 0
+  - component: {fileID: 1159025839}
+  m_Layer: 1
   m_Name: gravestone_dirt_56
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1127,6 +1754,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1159025839
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159025836}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.09, y: 0.08}
+    newSize: {x: 0.09, y: 0.08}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.045}
+      - {x: -0.042797547, y: 0.013905765}
+      - {x: -0.026450334, y: -0.03640577}
+      - {x: 0.026450342, y: -0.036405765}
+      - {x: 0.042797543, y: 0.013905771}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1190504598
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,6 +1816,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1190504600}
   - component: {fileID: 1190504599}
+  - component: {fileID: 1190504601}
+  - component: {fileID: 1190504603}
+  - component: {fileID: 1190504602}
   m_Layer: 0
   m_Name: ui_tool_sponge_0
   m_TagString: Untagged
@@ -1214,6 +1896,83 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1190504601
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190504598}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.16679429}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.04, y: 1.11}
+    newSize: {x: 1.04, y: 1.11}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1.04, y: 0.7764113}
+  m_EdgeRadius: 0
+--- !u!114 &1190504602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190504598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 6defa7ebc60434c6da085f250bc175a9, type: 2}
+--- !u!114 &1190504603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190504598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &1389532898
 GameObject:
   m_ObjectHideFlags: 0
@@ -1224,7 +1983,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1389532899}
   - component: {fileID: 1389532900}
-  m_Layer: 0
+  - component: {fileID: 1389532901}
+  m_Layer: 1
   m_Name: gravestone_dirt_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1301,6 +2061,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1389532901
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1389532898}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.18, y: 0.29}
+    newSize: {x: 0.18, y: 0.29}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.145}
+      - {x: -0.1379032, y: 0.04480746}
+      - {x: -0.08522885, y: -0.11730747}
+      - {x: 0.085228875, y: -0.117307454}
+      - {x: 0.13790318, y: 0.044807483}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1422314928
 GameObject:
   m_ObjectHideFlags: 0
@@ -1311,7 +2123,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1422314929}
   - component: {fileID: 1422314930}
-  m_Layer: 0
+  - component: {fileID: 1422314931}
+  m_Layer: 1
   m_Name: gravestone_dirt_45 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1388,6 +2201,121 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1422314931
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422314928}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.35, y: 0.24}
+    newSize: {x: 0.35, y: 0.24}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.065, y: 0.11}
+      - {x: -0.095, y: 0.049999997}
+      - {x: -0.095, y: -0.06}
+      - {x: -0.035, y: -0.08}
+      - {x: 0.085, y: -0.08}
+      - {x: 0.16499999, y: -0.02}
+      - {x: 0.16499999, y: 0.06}
+      - {x: 0.114999995, y: 0.11}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1442851792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1442851795}
+  - component: {fileID: 1442851794}
+  - component: {fileID: 1442851793}
+  m_Layer: 0
+  m_Name: VisualScripting SceneVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1442851793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442851792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765181c9ef4b24d32a4f7cbd2ef370dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1442851794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442851792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!4 &1442851795
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442851792}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1788359338
 GameObject:
   m_ObjectHideFlags: 0
@@ -1398,7 +2326,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1788359339}
   - component: {fileID: 1788359340}
-  m_Layer: 0
+  - component: {fileID: 1788359341}
+  m_Layer: 1
   m_Name: gravestone_dirt_3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1475,6 +2404,60 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1788359341
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788359338}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.21, y: 0.22}
+    newSize: {x: 0.21, y: 0.22}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.044999998, y: 0.089999996}
+      - {x: -0.044999998, y: 0.089999996}
+      - {x: -0.095, y: 0.03}
+      - {x: -0.095, y: -0.08}
+      - {x: -0.055, y: -0.099999994}
+      - {x: 0.085, y: -0.099999994}
+      - {x: 0.085, y: 0.08}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1790659226
 GameObject:
   m_ObjectHideFlags: 0
@@ -1485,7 +2468,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1790659227}
   - component: {fileID: 1790659228}
-  m_Layer: 0
+  - component: {fileID: 1790659229}
+  m_Layer: 1
   m_Name: gravestone_dirt_28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1562,6 +2546,75 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1790659229
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790659226}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1.2}
+    newSize: {x: 1, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.41, y: -0.08}
+      - {x: 0.41, y: 0.06}
+      - {x: 0.39999998, y: 0.16}
+      - {x: 0.32999998, y: 0.42}
+      - {x: 0.22, y: 0.57}
+      - {x: 0.17, y: 0.59}
+      - {x: 0.049999997, y: 0.59}
+      - {x: -0.11, y: 0.45}
+      - {x: -0.22, y: 0.26}
+      - {x: -0.35999998, y: -0.06}
+      - {x: -0.35999998, y: -0.22}
+      - {x: -0.06, y: -0.48999998}
+      - {x: 0.099999994, y: -0.48999998}
+      - {x: 0.14999999, y: -0.48}
+      - {x: 0.22, y: -0.39}
+      - {x: 0.35, y: -0.17999999}
+    - - {x: 0.29999998, y: 0.51}
+      - {x: 0.42999998, y: 0.51}
+      - {x: 0.48999998, y: 0.53}
+      - {x: 0.48999998, y: 0.59999996}
+      - {x: 0.26999998, y: 0.59999996}
+      - {x: 0.26999998, y: 0.56}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1984826249
 GameObject:
   m_ObjectHideFlags: 0
@@ -1572,7 +2625,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1984826250}
   - component: {fileID: 1984826251}
-  m_Layer: 0
+  - component: {fileID: 1984826252}
+  m_Layer: 1
   m_Name: gravestone_dirt_22
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1649,6 +2703,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1984826252
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1984826249}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.11}
+    newSize: {x: 0.14, y: 0.11}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.07}
+      - {x: -0.066573955, y: 0.021631189}
+      - {x: -0.041144963, y: -0.056631196}
+      - {x: 0.041144975, y: -0.056631185}
+      - {x: 0.066573955, y: 0.021631198}
+  m_UseDelaunayMesh: 0
 --- !u!1 &2096345953
 GameObject:
   m_ObjectHideFlags: 0
@@ -1659,7 +2765,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2096345954}
   - component: {fileID: 2096345955}
-  m_Layer: 0
+  - component: {fileID: 2096345956}
+  m_Layer: 1
   m_Name: gravestone_dirt_28 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1736,11 +2843,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &2096345956
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096345953}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1.2}
+    newSize: {x: 1, y: 1.2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.41, y: -0.08}
+      - {x: 0.41, y: 0.06}
+      - {x: 0.39999998, y: 0.16}
+      - {x: 0.32999998, y: 0.42}
+      - {x: 0.22, y: 0.57}
+      - {x: 0.17, y: 0.59}
+      - {x: 0.049999997, y: 0.59}
+      - {x: -0.11, y: 0.45}
+      - {x: -0.22, y: 0.26}
+      - {x: -0.35999998, y: -0.06}
+      - {x: -0.35999998, y: -0.22}
+      - {x: -0.06, y: -0.48999998}
+      - {x: 0.099999994, y: -0.48999998}
+      - {x: 0.14999999, y: -0.48}
+      - {x: 0.22, y: -0.39}
+      - {x: 0.35, y: -0.17999999}
+    - - {x: 0.29999998, y: 0.51}
+      - {x: 0.42999998, y: 0.51}
+      - {x: 0.48999998, y: 0.53}
+      - {x: 0.48999998, y: 0.59999996}
+      - {x: 0.26999998, y: 0.59999996}
+      - {x: 0.26999998, y: 0.56}
+  m_UseDelaunayMesh: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 295214189}
   - {fileID: 771254033}
-  - {fileID: 739282028}
   - {fileID: 1190504600}
+  - {fileID: 739282028}
+  - {fileID: 1442851795}
