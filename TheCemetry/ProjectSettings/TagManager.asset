@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Sponge
+  - 
   - Water
   - UI
-  - Dirt
+  - 
   - 
   - 
   - 
@@ -67,12 +67,6 @@ TagManager:
     locked: 0
   - name: Dialogue
     uniqueID: 2055993719
-    locked: 0
-  - name: Tool
-    uniqueID: 265774829
-    locked: 0
-  - name: Dirt
-    uniqueID: 3042642851
     locked: 0
   m_RenderingLayers:
   - Default
