@@ -675,6 +675,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1260585608}
   - component: {fileID: 1260585607}
+  - component: {fileID: 1260585610}
+  - component: {fileID: 1260585609}
   m_Layer: 0
   m_Name: Dialogue_Manager
   m_TagString: Untagged
@@ -842,6 +844,39 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 175128649}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+
+--- !u!114 &1260585609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260585606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 781e9657261714c1c994842c7ba027dc, type: 2}
+--- !u!114 &1260585610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260585606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+=======
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0.14801025, y: 1.8828125}
@@ -1455,6 +1490,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3091795205781930493, guid: a3f6cf0d1cd108c42b3ba366486af75a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 9082484787746854073}
+    - targetCorrespondingSourceObject: {fileID: 3091795205781930493, guid: a3f6cf0d1cd108c42b3ba366486af75a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9082484787746854077}
+=======
   m_SourcePrefab: {fileID: 100100000, guid: a3f6cf0d1cd108c42b3ba366486af75a, type: 3}
 --- !u!1 &9082484787746854072 stripped
 GameObject:
@@ -1474,6 +1513,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 781e9657261714c1c994842c7ba027dc, type: 2}
+=======
     _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Stranger_Mono","summary":null,"pan":{"x":138.7497,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-203.0,"y":-158.0},"guid":"82d87a0e-1721-4064-881c-bfc0a85d1612","$version":"A","$type":"Unity.VisualScripting.OnButtonClick","$id":"10"},{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"Dialogue_Trigger","$type":"System.String"},"object":null},"position":{"x":-127.0,"y":-9.0},"guid":"96aacd4c-7818-4d6b-97da-ab15ffee9a58","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"argumentCount":1,"defaultValues":{"name":{"$content":"StartDialogue","$type":"System.String"},"target":{"$content":1,"$type":"UnityEngine.Object"}},"position":{"x":105.0,"y":-157.0},"guid":"55bd8d59-40ed-4d6c-a848-7769961d81c8","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"14"},{"chainable":false,"parameterNames":["value"],"member":{"name":"SetActive","parameterTypes":["System.Boolean"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"%value":{"$content":false,"$type":"System.Boolean"}},"position":{"x":437.0,"y":-85.0},"guid":"5d4adb66-0706-475e-af85-9b09a6a4c731","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"16"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"b6ebe0fb-7ca4-4b15-ac6e-ffb2d4b2d329","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"exit","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"1ecad2f1-7560-43eb-9be3-3113348db387","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"argument_0","guid":"965977ee-e70c-48b8-b9b8-b3ffcc49ce48","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
     _objectReferences:
     - {fileID: 9082484787746854072}
@@ -1491,6 +1534,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!61 &9082484787746854077
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9082484787746854072}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.4, y: 12.86}
+    newSize: {x: 4.4, y: 12.86}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 4.4, y: 12.86}
+  m_EdgeRadius: 0
+=======
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Dialogue_Trigger","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"NPC_Dialogue,
       Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
