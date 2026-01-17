@@ -50,6 +50,9 @@ TagManager:
   - name: Gravestones_Buildings
     uniqueID: 1553196543
     locked: 0
+  - name: Dirt
+    uniqueID: 1345412831
+    locked: 0
   - name: Interactibles
     uniqueID: 1590016709
     locked: 0
