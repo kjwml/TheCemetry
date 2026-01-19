@@ -10,19 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
-  m_Name: Story3_NPC1_Mono
+  m_Name: NPC_Dialogue
   m_EditorClassIdentifier: 
   sentences:
   - name: Stranger
-    sentences:
+    text:
     - "I didn\u2019t know her. I want to be clear about that. I came because I didn\u2019t
-      want her to disappear into headlines. "
-    - "I learned her name the same way I learned the others\u2019. From a list. That
-      didn\u2019t feel right."
+      want her to disappear into headlines. I learned her name the same way I learned
+      the others\u2019. From a list. That didn\u2019t feel right."
+  - name: Stranger
+    text:
     - There were a lot of people at the vigil. Someone brought fabric, tied it where
       people could see it move in the wind. Someone else lit something and stayed
-      until it burned down. No one told them to. It just felt wrong to leave things
-      bare.
-    - "I want to stand by her regardless. To remember one person, properly, even
-      if I\u2019m late. There are a lot of us like that. Standing quietly. Trying
-      not to take up too much space. I hope that\u2019s okay."
+      until it burned down. No one told them to.
+  - name: Stranger
+    text:
+    - " It just felt wrong to leave things bare. I want to stand by her regardless.
+      To remember one person, properly, even if I\u2019m late."
+  - name: Stranger
+    text:
+    - "There are a lot of us like that. Standing quietly. Trying not to take up too
+      much space. I hope that\u2019s okay."
