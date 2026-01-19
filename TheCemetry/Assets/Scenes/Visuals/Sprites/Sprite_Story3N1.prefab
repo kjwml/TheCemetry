@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7778775133343517920}
   - component: {fileID: 5372620023245782391}
   - component: {fileID: 7757223370766144022}
+  - component: {fileID: 1900086501888019502}
   m_Layer: 0
   m_Name: Sprite_Story3N1
   m_TagString: Untagged
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1367200809
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: -2813265482099775118, guid: 1a3fb17a1149ac94bb6354079a747ed5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -114,3 +115,15 @@ MonoBehaviour:
     - "I want to stand by her regardless. To remember one person, properly, even
       if I\u2019m late. There are a lot of us like that. Standing quietly. Trying
       not to take up too much space. I hope that\u2019s okay."
+--- !u!114 &1900086501888019502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3091795205781930493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51eb97cc5baa44c898f577d324843965, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
