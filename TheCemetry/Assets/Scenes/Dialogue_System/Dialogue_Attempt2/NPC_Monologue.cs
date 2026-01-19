@@ -1,5 +1,6 @@
 using UnityEngine;
 using System;
+using Unity.VisualScripting;
 
 [Serializable]
 /// <summary>
@@ -10,6 +11,6 @@ public class NPC_Monologue
     public string name;
 
     [TextArea(3, 10)]
-    public string[] text;
+   [Inspectable] public string text;
 }
    
