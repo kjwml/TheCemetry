@@ -14,20 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sentences:
   - name: Stranger
-    text:
-    - "I didn\u2019t know her. I want to be clear about that. I came because I didn\u2019t
-      want her to disappear into headlines. I learned her name the same way I learned
-      the others\u2019. From a list. That didn\u2019t feel right."
+    text: "I didn\u2019t know her. I want to be clear about that. I came because
+      I didn\u2019t want her to disappear into headlines. I learned her name the
+      same way I learned the others\u2019. From a list. That didn\u2019t feel right."
   - name: Stranger
-    text:
-    - There were a lot of people at the vigil. Someone brought fabric, tied it where
-      people could see it move in the wind. Someone else lit something and stayed
-      until it burned down. No one told them to.
+    text: 
   - name: Stranger
-    text:
-    - " It just felt wrong to leave things bare. I want to stand by her regardless.
-      To remember one person, properly, even if I\u2019m late."
+    text: 
   - name: Stranger
-    text:
-    - "There are a lot of us like that. Standing quietly. Trying not to take up too
-      much space. I hope that\u2019s okay."
+    text: 
