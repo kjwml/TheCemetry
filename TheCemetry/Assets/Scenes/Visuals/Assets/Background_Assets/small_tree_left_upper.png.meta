@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 14e6921670bdc104ea015024c60fda42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2572947937238551129
+    second: small_tree_left_upper_0
+  - first:
+      213: -1282012776182657811
+    second: small_tree_left_upper_1
+  - first:
+      213: 6388627011480388799
+    second: small_tree_left_upper_2
+  - first:
+      213: 4717812532063741659
+    second: small_tree_left_upper_3
+  - first:
+      213: 9154366638218934285
+    second: small_tree_left_upper_4
+  - first:
+      213: -6035894292660261061
+    second: small_tree_left_upper_5
+  - first:
+      213: 7039035271415624430
+    second: small_tree_left_upper_6
+  - first:
+      213: -2268700833573957792
+    second: small_tree_left_upper_7
+  - first:
+      213: -4153321268707796282
+    second: small_tree_left_upper_8
+  - first:
+      213: -2202080650011908128
+    second: small_tree_left_upper_9
+  - first:
+      213: -9108213267508297252
+    second: small_tree_left_upper_10
+  - first:
+      213: -8297288464220957551
+    second: small_tree_left_upper_11
+  - first:
+      213: 6077281101722432220
+    second: small_tree_left_upper_12
+  - first:
+      213: -4571071133320346531
+    second: small_tree_left_upper_13
+  - first:
+      213: 7183316421282114879
+    second: small_tree_left_upper_14
+  - first:
+      213: 7086348201116612148
+    second: small_tree_left_upper_15
+  - first:
+      213: 2646259450765032814
+    second: small_tree_left_upper_16
+  - first:
+      213: 2142127878283593489
+    second: small_tree_left_upper_17
+  - first:
+      213: -3701150313675767282
+    second: small_tree_left_upper_18
+  - first:
+      213: -3851057161534094701
+    second: small_tree_left_upper_19
+  - first:
+      213: -6243713962351535412
+    second: small_tree_left_upper_20
+  - first:
+      213: -7554787508194191096
+    second: small_tree_left_upper_21
+  - first:
+      213: 3549183177345022545
+    second: small_tree_left_upper_22
+  - first:
+      213: -3176888804339855084
+    second: small_tree_left_upper_23
+  - first:
+      213: 5906659538377846938
+    second: small_tree_left_upper_24
+  - first:
+      213: 4874741637977393682
+    second: small_tree_left_upper_25
+  - first:
+      213: 7074924153270828941
+    second: small_tree_left_upper_26
+  - first:
+      213: -8081731180019738908
+    second: small_tree_left_upper_27
+  - first:
+      213: 1708039082667249250
+    second: small_tree_left_upper_28
+  - first:
+      213: -7966240675201414285
+    second: small_tree_left_upper_29
+  - first:
+      213: 900808641135587905
+    second: small_tree_left_upper_30
+  - first:
+      213: 2340946612380397422
+    second: small_tree_left_upper_31
+  - first:
+      213: 2686354837983491554
+    second: small_tree_left_upper_32
+  - first:
+      213: -5411859608131457062
+    second: small_tree_left_upper_33
+  - first:
+      213: 1362951312091665234
+    second: small_tree_left_upper_34
+  - first:
+      213: 1890236012439941305
+    second: small_tree_left_upper_35
+  - first:
+      213: 6621522502588278787
+    second: small_tree_left_upper_36
+  - first:
+      213: -4588784978588720321
+    second: small_tree_left_upper_37
+  - first:
+      213: 7007117495234728810
+    second: small_tree_left_upper_38
+  - first:
+      213: -4019876870032885632
+    second: small_tree_left_upper_39
+  - first:
+      213: -4435304362698849028
+    second: small_tree_left_upper_40
+  - first:
+      213: 1007899363546425249
+    second: small_tree_left_upper_41
+  - first:
+      213: 6639084934932851183
+    second: small_tree_left_upper_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: small_tree_left_upper_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1044
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5725fab7d0b4cd0800000000000000
+      internalID: -2572947937238551129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1012
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decce162c20653ee0800000000000000
+      internalID: -1282012776182657811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 27
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb401c52b66f8a850800000000000000
+      internalID: 6388627011480388799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1013
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6ab8a7089097140800000000000000
+      internalID: 4717812532063741659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1050
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f9be94f7da0f70800000000000000
+      internalID: 9154366638218934285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_5
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1044
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f6d20de123c3ca0800000000000000
+      internalID: -6035894292660261061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_6
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1072
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27c22f84dafa160800000000000000
+      internalID: 7039035271415624430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 998
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0139ac94f380e0800000000000000
+      internalID: -2268700833573957792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_8
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1014
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad894bf407c56c0800000000000000
+      internalID: -4153321268707796282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_9
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 825
+        width: 162
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e76741e053a071e0800000000000000
+      internalID: -2202080650011908128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_10
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 981
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10ba36a40299180800000000000000
+      internalID: -9108213267508297252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 859
+        width: 62
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194d92b4a1c1adc80800000000000000
+      internalID: -8297288464220957551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_12
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 977
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23c5496f6d65450800000000000000
+      internalID: 6077281101722432220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_13
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 995
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540667d50b4090c0800000000000000
+      internalID: -4571071133320346531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_14
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 949
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d20cfe93440b360800000000000000
+      internalID: 7183316421282114879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_15
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 971
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436b842d424c75260800000000000000
+      internalID: 7086348201116612148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 919
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbe5233f669b420800000000000000
+      internalID: 2646259450765032814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 876
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1170e80b4fd5abd10800000000000000
+      internalID: 2142127878283593489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 878
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02c705366fd2acc0800000000000000
+      internalID: -3701150313675767282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_19
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 897
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39249055aeb4e8ac0800000000000000
+      internalID: -3851057161534094701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_20
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 883
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad3ea5b3fd959a0800000000000000
+      internalID: -6243713962351535412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_21
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 893
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d68cc9c0082790800000000000000
+      internalID: -7554787508194191096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 788
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a3170ab4b314130800000000000000
+      internalID: 3549183177345022545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_23
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 811
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411586ed67c69e3d0800000000000000
+      internalID: -3176888804339855084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_24
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 521
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903f2a2e8ba8f150800000000000000
+      internalID: 5906659538377846938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_25
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 523
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac27731bf86a340800000000000000
+      internalID: 4874741637977393682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 496
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff988680e2f2260800000000000000
+      internalID: 7074924153270828941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_27
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 507
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e699b48f4ce7df80800000000000000
+      internalID: -8081731180019738908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_28
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 498
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8dd00f7c24b710800000000000000
+      internalID: 1708039082667249250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_29
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 486
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b0a57105a327190800000000000000
+      internalID: -7966240675201414285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 396
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1423d79bfa0508c00800000000000000
+      internalID: 900808641135587905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 424
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f66158a86bc7020800000000000000
+      internalID: 2340946612380397422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_32
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 428
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e578a20e79d74520800000000000000
+      internalID: 2686354837983491554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_33
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 408
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf2a031c5635e4b0800000000000000
+      internalID: -5411859608131457062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_34
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 414
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25350634ffc2ae210800000000000000
+      internalID: 1362951312091665234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 409
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0322f63a77b3a10800000000000000
+      internalID: 1890236012439941305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_36
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 384
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a70f32af54eb50800000000000000
+      internalID: 6621522502588278787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 221
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332298df5c5150c0800000000000000
+      internalID: -4588784978588720321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 282
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6314e29c384e3160800000000000000
+      internalID: 7007117495234728810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_39
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 326
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08871e0f8478638c0800000000000000
+      internalID: -4019876870032885632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_40
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 258
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4489e6e22a272c0800000000000000
+      internalID: -4435304362698849028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 34
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e68d8127ccfd00800000000000000
+      internalID: 1007899363546425249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_left_upper_42
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 6
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e15ca294c22c50800000000000000
+      internalID: 6639084934932851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      small_tree_left_upper_0: -2572947937238551129
+      small_tree_left_upper_1: -1282012776182657811
+      small_tree_left_upper_10: -9108213267508297252
+      small_tree_left_upper_11: -8297288464220957551
+      small_tree_left_upper_12: 6077281101722432220
+      small_tree_left_upper_13: -4571071133320346531
+      small_tree_left_upper_14: 7183316421282114879
+      small_tree_left_upper_15: 7086348201116612148
+      small_tree_left_upper_16: 2646259450765032814
+      small_tree_left_upper_17: 2142127878283593489
+      small_tree_left_upper_18: -3701150313675767282
+      small_tree_left_upper_19: -3851057161534094701
+      small_tree_left_upper_2: 6388627011480388799
+      small_tree_left_upper_20: -6243713962351535412
+      small_tree_left_upper_21: -7554787508194191096
+      small_tree_left_upper_22: 3549183177345022545
+      small_tree_left_upper_23: -3176888804339855084
+      small_tree_left_upper_24: 5906659538377846938
+      small_tree_left_upper_25: 4874741637977393682
+      small_tree_left_upper_26: 7074924153270828941
+      small_tree_left_upper_27: -8081731180019738908
+      small_tree_left_upper_28: 1708039082667249250
+      small_tree_left_upper_29: -7966240675201414285
+      small_tree_left_upper_3: 4717812532063741659
+      small_tree_left_upper_30: 900808641135587905
+      small_tree_left_upper_31: 2340946612380397422
+      small_tree_left_upper_32: 2686354837983491554
+      small_tree_left_upper_33: -5411859608131457062
+      small_tree_left_upper_34: 1362951312091665234
+      small_tree_left_upper_35: 1890236012439941305
+      small_tree_left_upper_36: 6621522502588278787
+      small_tree_left_upper_37: -4588784978588720321
+      small_tree_left_upper_38: 7007117495234728810
+      small_tree_left_upper_39: -4019876870032885632
+      small_tree_left_upper_4: 9154366638218934285
+      small_tree_left_upper_40: -4435304362698849028
+      small_tree_left_upper_41: 1007899363546425249
+      small_tree_left_upper_42: 6639084934932851183
+      small_tree_left_upper_5: -6035894292660261061
+      small_tree_left_upper_6: 7039035271415624430
+      small_tree_left_upper_7: -2268700833573957792
+      small_tree_left_upper_8: -4153321268707796282
+      small_tree_left_upper_9: -2202080650011908128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
