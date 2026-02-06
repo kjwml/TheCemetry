@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: d6b10bccd24024249b3441f250ad0795
+=======
+guid: 87f0d47af85b44c4a8817c95b3985415
+>>>>>>> parent of 9daeeba (Revert "Starting Visual stitching")
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
