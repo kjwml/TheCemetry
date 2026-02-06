@@ -5,16 +5,18 @@ TagManager:
   serializedVersion: 3
   tags:
   - Sponge
+  - Brush
+  - Shovel
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GreenDirt
   - Water
   - UI
-  - 
-  - 
-  - 
+  - BrownDirt
+  - Cracks
+  - Graveston
   - 
   - 
   - 
