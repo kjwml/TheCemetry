@@ -399,6 +399,9 @@ GameObject:
   m_Component:
   - component: {fileID: 387292740}
   - component: {fileID: 387292741}
+  - component: {fileID: 387292743}
+  - component: {fileID: 387292742}
+  - component: {fileID: 387292744}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_5
   m_TagString: Untagged
@@ -476,6 +479,98 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &387292742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387292739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &387292743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387292739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &387292744
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387292739}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.91, y: 0.83}
+    newSize: {x: 0.91, y: 0.83}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.435, y: 0.295}
+      - {x: 0.385, y: 0.36499998}
+      - {x: 0.205, y: 0.385}
+      - {x: 0.055, y: 0.415}
+      - {x: -0.065, y: 0.415}
+      - {x: -0.105, y: 0.355}
+      - {x: -0.24499999, y: 0.185}
+      - {x: -0.415, y: 0.065}
+      - {x: -0.415, y: -0.074999996}
+      - {x: -0.095, y: -0.36499998}
+      - {x: 0.065, y: -0.36499998}
+      - {x: 0.155, y: -0.305}
+      - {x: 0.255, y: 0.005}
+      - {x: 0.435, y: 0.16499999}
+  m_UseDelaunayMesh: 0
 --- !u!1 &398251170
 GameObject:
   m_ObjectHideFlags: 0
@@ -486,6 +581,9 @@ GameObject:
   m_Component:
   - component: {fileID: 398251171}
   - component: {fileID: 398251172}
+  - component: {fileID: 398251174}
+  - component: {fileID: 398251173}
+  - component: {fileID: 398251175}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_8
   m_TagString: Untagged
@@ -563,6 +661,106 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &398251173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398251170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &398251174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398251170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &398251175
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398251170}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.87, y: 1.04}
+    newSize: {x: 0.87, y: 1.04}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.42499998, y: 0.22999999}
+      - {x: 0.435, y: 0.29}
+      - {x: 0.435, y: 0.51}
+      - {x: 0.405, y: 0.52}
+      - {x: 0.125, y: 0.52}
+      - {x: -0.325, y: 0.51}
+      - {x: -0.375, y: 0.47}
+      - {x: -0.375, y: 0.37}
+      - {x: -0.275, y: 0.24}
+      - {x: -0.345, y: 0.17}
+      - {x: -0.375, y: 0.12}
+      - {x: -0.375, y: 0.01}
+      - {x: -0.295, y: -0.06}
+      - {x: -0.24499999, y: -0.04}
+      - {x: -0.175, y: -0.13}
+      - {x: -0.21499999, y: -0.39}
+      - {x: -0.125, y: -0.48999998}
+      - {x: 0.085, y: -0.48999998}
+      - {x: 0.105, y: -0.48}
+      - {x: 0.195, y: -0.24}
+      - {x: 0.175, y: 0.08}
+      - {x: 0.36499998, y: 0.049999997}
+  m_UseDelaunayMesh: 0
 --- !u!1001 &406677164
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -655,12 +853,22 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1849310879}
-  - {fileID: 48379938}
   - {fileID: 759394891}
   - {fileID: 406677165}
+  - {fileID: 48379938}
   - {fileID: 1508289090}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &541659351 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8990236702177232702, guid: fd8a98f0b852e414181580f97981cb26, type: 3}
+  m_PrefabInstance: {fileID: 759394890}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &544913914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2718694567737798433, guid: 476e36ccb581a439f80b3f925ace049f, type: 3}
+  m_PrefabInstance: {fileID: 48379937}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &759394890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -733,6 +941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 772286094}
   - component: {fileID: 772286095}
+  - component: {fileID: 772286097}
   m_Layer: 3
   m_Name: story2_green_dirt_gravestone_1
   m_TagString: Untagged
@@ -810,6 +1019,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &772286097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772286093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &797989269
 GameObject:
   m_ObjectHideFlags: 0
@@ -897,6 +1121,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &843468474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 843468476}
+  - component: {fileID: 843468475}
+  m_Layer: 0
+  m_Name: ToolManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &843468475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843468474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce07f0bbf54849aa846cee286bd7887, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BrownDirtParent: {fileID: 1992808540}
+  GreenDirtParent: {fileID: 143276542}
+  RockParent: {fileID: 1821937562}
+  spongeTool: {fileID: 1219894160}
+  brushTool: {fileID: 541659351}
+  shovelTool: {fileID: 1354629582}
+  wateringCanTool: {fileID: 544913914}
+  clothTool: {fileID: 1978907367}
+--- !u!4 &843468476
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843468474}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.18434, y: 0.69266546, z: -12.379227}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &865528013
 GameObject:
   m_ObjectHideFlags: 0
@@ -907,6 +1183,9 @@ GameObject:
   m_Component:
   - component: {fileID: 865528014}
   - component: {fileID: 865528015}
+  - component: {fileID: 865528017}
+  - component: {fileID: 865528016}
+  - component: {fileID: 865528018}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_3
   m_TagString: Untagged
@@ -984,6 +1263,92 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &865528016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865528013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &865528017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865528013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &865528018
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 865528013}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.21, y: 0.29}
+    newSize: {x: 0.21, y: 0.29}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.024999999, y: 0.145}
+      - {x: -0.065, y: 0.13499999}
+      - {x: -0.065, y: -0.074999996}
+      - {x: -0.044999998, y: -0.105}
+      - {x: 0.035, y: -0.105}
+      - {x: 0.105, y: -0.055}
+      - {x: 0.105, y: 0.125}
+      - {x: 0.085, y: 0.145}
+  m_UseDelaunayMesh: 0
 --- !u!1 &887619213
 GameObject:
   m_ObjectHideFlags: 0
@@ -994,6 +1359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 887619214}
   - component: {fileID: 887619215}
+  - component: {fileID: 887619217}
   m_Layer: 3
   m_Name: story2_green_dirt_gravestone_2
   m_TagString: Untagged
@@ -1071,6 +1437,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &887619217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887619213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &1042224640
 GameObject:
   m_ObjectHideFlags: 0
@@ -1168,6 +1549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1078404271}
   - component: {fileID: 1078404272}
+  - component: {fileID: 1078404274}
   m_Layer: 3
   m_Name: story2_green_dirt_gravestone_0
   m_TagString: Untagged
@@ -1245,6 +1627,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1078404274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078404270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &1105803968
 GameObject:
   m_ObjectHideFlags: 0
@@ -1342,6 +1739,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1169226325}
   - component: {fileID: 1169226326}
+  - component: {fileID: 1169226328}
+  - component: {fileID: 1169226327}
+  - component: {fileID: 1169226329}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_2
   m_TagString: Untagged
@@ -1419,6 +1819,96 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1169226327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169226324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &1169226328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169226324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &1169226329
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169226324}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.19, y: 0.21}
+    newSize: {x: 0.19, y: 0.21}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.024999999, y: 0.105}
+      - {x: -0.055, y: 0.074999996}
+      - {x: -0.055, y: -0.024999999}
+      - {x: -0.035, y: -0.074999996}
+      - {x: 0.055, y: -0.074999996}
+      - {x: 0.095, y: -0.015}
+      - {x: 0.095, y: 0.105}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1219894160 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2994663201515842202, guid: 63d5c2a10f7ab4518a158354823feea5, type: 3}
+  m_PrefabInstance: {fileID: 1849310878}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1344773615
 GameObject:
   m_ObjectHideFlags: 0
@@ -1540,6 +2030,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1354629582 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8161884690659408713, guid: b4f1acf35a25d421a96511231628509c, type: 3}
+  m_PrefabInstance: {fileID: 406677164}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1374758063
 GameObject:
   m_ObjectHideFlags: 0
@@ -1836,6 +2331,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1727877576}
   - component: {fileID: 1727877577}
+  - component: {fileID: 1727877579}
+  - component: {fileID: 1727877578}
+  - component: {fileID: 1727877580}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_4
   m_TagString: Untagged
@@ -1913,6 +2411,152 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1727877578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727877575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &1727877579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727877575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &1727877580
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727877575}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.14}
+    newSize: {x: 0.14, y: 0.14}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.04, y: 0.01}
+      - {x: -0.03, y: -0.04}
+      - {x: 0.049999997, y: -0.04}
+      - {x: 0.07, y: -0.03}
+      - {x: 0.07, y: 0.04}
+      - {x: 0.06, y: 0.07}
+      - {x: 0.01, y: 0.07}
+      - {x: -0.04, y: 0.049999997}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1759710354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1759710357}
+  - component: {fileID: 1759710356}
+  - component: {fileID: 1759710355}
+  m_Layer: 0
+  m_Name: VisualScripting SceneVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1759710355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759710354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765181c9ef4b24d32a4f7cbd2ef370dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1759710356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759710354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!4 &1759710357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759710354}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1816256342
 GameObject:
   m_ObjectHideFlags: 0
@@ -2109,6 +2753,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1922270789}
   - component: {fileID: 1922270790}
+  - component: {fileID: 1922270792}
+  - component: {fileID: 1922270791}
+  - component: {fileID: 1922270793}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_0
   m_TagString: Untagged
@@ -2186,6 +2833,97 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1922270791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922270788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &1922270792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922270788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &1922270793
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922270788}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.27, y: 0.28}
+    newSize: {x: 0.27, y: 0.28}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.105, y: 0.14}
+      - {x: -0.044999998, y: 0.14}
+      - {x: -0.095, y: 0.11}
+      - {x: -0.095, y: -0.04}
+      - {x: -0.065, y: -0.089999996}
+      - {x: 0.074999996, y: -0.089999996}
+      - {x: 0.13499999, y: -0.03}
+      - {x: 0.13499999, y: 0.11}
+  m_UseDelaunayMesh: 0
+--- !u!1 &1978907367 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7928735027608884727, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
+  m_PrefabInstance: {fileID: 1508289089}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1992808539
 GameObject:
   m_ObjectHideFlags: 0
@@ -2236,6 +2974,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1994685279}
   - component: {fileID: 1994685280}
+  - component: {fileID: 1994685282}
+  - component: {fileID: 1994685281}
+  - component: {fileID: 1994685283}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_7
   m_TagString: Untagged
@@ -2313,6 +3054,93 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1994685281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994685278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &1994685282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994685278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &1994685283
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994685278}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.56}
+    newSize: {x: 0.32, y: 0.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.11, y: 0.28}
+      - {x: -0.04, y: 0.28}
+      - {x: -0.099999994, y: 0.26}
+      - {x: -0.099999994, y: -0.21}
+      - {x: 0.08, y: -0.21}
+      - {x: 0.13, y: -0.17999999}
+      - {x: 0.14, y: -0.16}
+      - {x: 0.14, y: 0.19}
+      - {x: 0.13, y: 0.26999998}
+  m_UseDelaunayMesh: 0
 --- !u!1 &2066857007
 GameObject:
   m_ObjectHideFlags: 0
@@ -2323,6 +3151,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2066857008}
   - component: {fileID: 2066857009}
+  - component: {fileID: 2066857011}
+  - component: {fileID: 2066857010}
+  - component: {fileID: 2066857012}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_6
   m_TagString: Untagged
@@ -2400,6 +3231,91 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2066857010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066857007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &2066857011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066857007}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &2066857012
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066857007}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.14, y: 0.16}
+    newSize: {x: 0.14, y: 0.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 0.08}
+      - {x: -0.04, y: 0.03}
+      - {x: -0.04, y: -0.04}
+      - {x: 0, y: -0.049999997}
+      - {x: 0.07, y: -0.049999997}
+      - {x: 0.07, y: 0.049999997}
+      - {x: 0.06, y: 0.08}
+  m_UseDelaunayMesh: 0
 --- !u!1 &2121040679
 GameObject:
   m_ObjectHideFlags: 0
@@ -2410,6 +3326,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2121040680}
   - component: {fileID: 2121040681}
+  - component: {fileID: 2121040683}
+  - component: {fileID: 2121040682}
+  - component: {fileID: 2121040684}
   m_Layer: 6
   m_Name: story2_brown_dirt_gravestone_1
   m_TagString: Untagged
@@ -2487,6 +3406,220 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2121040682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121040679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a062c7f04f4794811988d87cf0115bac, type: 2}
+--- !u!114 &2121040683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121040679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!60 &2121040684
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121040679}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.41, y: 4.42}
+    newSize: {x: 2.41, y: 4.42}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.13499999, y: -1.76}
+      - {x: 0.095, y: -1.81}
+      - {x: 0.065, y: -2.06}
+      - {x: 0.065, y: -2.21}
+      - {x: 0.285, y: -2.21}
+      - {x: 0.305, y: -2.1599998}
+      - {x: 0.305, y: -1.88}
+      - {x: 0.295, y: -1.76}
+    - - {x: -0.355, y: -1.1999999}
+      - {x: -0.24499999, y: -1.22}
+      - {x: -0.195, y: -1.16}
+      - {x: -0.155, y: -1.09}
+      - {x: -0.13499999, y: -0.71}
+      - {x: -0.024999999, y: -0.39999998}
+      - {x: 0.005, y: -0.28}
+      - {x: 0.024999999, y: -0.07}
+      - {x: 0.015, y: 0.22}
+      - {x: 0.005, y: 0.84}
+      - {x: 0.015, y: 0.84999996}
+      - {x: 0.065, y: 1.3299999}
+      - {x: 0.125, y: 1.24}
+      - {x: 0.125, y: 1.0799999}
+      - {x: 0.16499999, y: 0.94}
+      - {x: 0.225, y: 0.90999997}
+      - {x: 0.275, y: 0.90999997}
+      - {x: 0.33499998, y: 0.91999996}
+      - {x: 0.39499998, y: 1.01}
+      - {x: 0.42499998, y: 1.15}
+      - {x: 0.53499997, y: 1.28}
+      - {x: 0.555, y: 1.4}
+      - {x: 0.675, y: 1.3399999}
+      - {x: 0.805, y: 1.27}
+      - {x: 0.84499997, y: 1.18}
+      - {x: 0.91499996, y: 1.17}
+      - {x: 0.935, y: 0.90999997}
+      - {x: 1.015, y: 0.81}
+      - {x: 1.135, y: 0.79999995}
+      - {x: 1.1949999, y: 0.84999996}
+      - {x: 1.1949999, y: 0.97999996}
+      - {x: 1.185, y: 1.11}
+      - {x: 1.175, y: 1.68}
+      - {x: 1.125, y: 1.87}
+      - {x: 1.055, y: 1.9799999}
+      - {x: 0.955, y: 2.07}
+      - {x: 0.695, y: 2.1299999}
+      - {x: 0.285, y: 2.1599998}
+      - {x: -0.114999995, y: 2.2}
+      - {x: -0.195, y: 2.2}
+      - {x: -0.345, y: 2.11}
+      - {x: -0.42499998, y: 2.01}
+      - {x: -0.435, y: 1.9}
+      - {x: -0.355, y: 1.6899999}
+      - {x: -0.275, y: 1.3199999}
+      - {x: -0.255, y: 0.9}
+      - {x: -0.305, y: 0.72999996}
+      - {x: -0.305, y: 0.26}
+      - {x: -0.33499998, y: 0.11}
+      - {x: -0.465, y: -0.02}
+      - {x: -0.825, y: 0.08}
+      - {x: -0.97499996, y: 0.089999996}
+      - {x: -1.105, y: 0.01}
+      - {x: -1.105, y: -0.12}
+      - {x: -1.0849999, y: -0.17999999}
+      - {x: -0.97499996, y: -0.35}
+      - {x: -0.97499996, y: -0.65999997}
+      - {x: -0.91499996, y: -0.76}
+      - {x: -0.815, y: -0.79999995}
+      - {x: -0.685, y: -0.83}
+      - {x: -0.60499996, y: -0.94}
+      - {x: -0.615, y: -1.18}
+      - {x: -0.705, y: -1.64}
+      - {x: -0.715, y: -1.8399999}
+      - {x: -0.685, y: -2.02}
+      - {x: -0.625, y: -2.12}
+      - {x: -0.585, y: -2.1299999}
+      - {x: -0.45499998, y: -2.1299999}
+      - {x: -0.405, y: -2.07}
+      - {x: -0.36499998, y: -1.9699999}
+      - {x: -0.355, y: -1.7199999}
+    - - {x: -1.095, y: -0.77}
+      - {x: -1.145, y: -0.94}
+      - {x: -1.145, y: -1.2099999}
+      - {x: -1.105, y: -1.24}
+      - {x: -0.955, y: -1.24}
+      - {x: -0.895, y: -1.1999999}
+      - {x: -0.895, y: -0.84}
+      - {x: -0.955, y: -0.77}
+    - - {x: 0.945, y: -0.71999997}
+      - {x: 0.945, y: -0.78}
+      - {x: 0.955, y: -0.81}
+      - {x: 0.995, y: -0.81}
+      - {x: 1.045, y: -0.78999996}
+      - {x: 1.045, y: -0.71999997}
+      - {x: 1.015, y: -0.69}
+      - {x: 0.97499996, y: -0.69}
+    - - {x: 0.125, y: -0.32}
+      - {x: 0.105, y: -0.32999998}
+      - {x: 0.105, y: -0.47}
+      - {x: 0.155, y: -0.51}
+      - {x: 0.255, y: -0.51}
+      - {x: 0.295, y: -0.5}
+      - {x: 0.305, y: -0.47}
+      - {x: 0.305, y: -0.32}
+    - - {x: 0.405, y: 0}
+      - {x: 0.345, y: 0.06}
+      - {x: 0.195, y: 0.06}
+      - {x: 0.065, y: 0}
+      - {x: 0.065, y: -0.22}
+      - {x: 0.145, y: -0.32}
+      - {x: 0.305, y: -0.32}
+      - {x: 0.385, y: -0.25}
+      - {x: 0.405, y: -0.21}
+    - - {x: -0.995, y: 0.35}
+      - {x: -1.0749999, y: 0.29}
+      - {x: -1.0749999, y: 0.14999999}
+      - {x: -1.015, y: 0.089999996}
+      - {x: -0.905, y: 0.089999996}
+      - {x: -0.815, y: 0.12}
+      - {x: -0.815, y: 0.29}
+      - {x: -0.84499997, y: 0.35}
+    - - {x: -1.165, y: 0.32999998}
+      - {x: -1.2049999, y: 0.32999998}
+      - {x: -1.2049999, y: 0.14999999}
+      - {x: -1.185, y: 0.14999999}
+      - {x: -1.125, y: 0.22}
+      - {x: -1.125, y: 0.31}
+    - - {x: -0.53499997, y: 1.9599999}
+      - {x: -0.625, y: 1.9599999}
+      - {x: -0.715, y: 1.8299999}
+      - {x: -0.715, y: 1.5899999}
+      - {x: -0.695, y: 1.4}
+      - {x: -0.66499996, y: 1.35}
+      - {x: -0.525, y: 1.35}
+      - {x: -0.445, y: 1.41}
+      - {x: -0.445, y: 1.74}
+      - {x: -0.465, y: 1.87}
+  m_UseDelaunayMesh: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2496,3 +3629,5 @@ SceneRoots:
   - {fileID: 51559929}
   - {fileID: 1344773616}
   - {fileID: 499199476}
+  - {fileID: 843468476}
+  - {fileID: 1759710357}
