@@ -7,7 +7,6 @@ TagManager:
   - Sponge
   - Brush
   - Shovel
-  - WateringCan
   layers:
   - Default
   - TransparentFX
@@ -59,9 +58,6 @@ TagManager:
     locked: 0
   - name: Dirt
     uniqueID: 1345412831
-    locked: 0
-  - name: Shine
-    uniqueID: 2580479115
     locked: 0
   - name: Interactibles
     uniqueID: 1590016709
