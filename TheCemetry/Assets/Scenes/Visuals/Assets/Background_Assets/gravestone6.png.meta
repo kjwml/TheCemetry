@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 886b91fd6bc94044cab5ed117a670c61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8746317071077084447
+    second: gravestone6_0
+  - first:
+      213: -6098332593885189815
+    second: gravestone6_1
+  - first:
+      213: -2628448962717824661
+    second: gravestone6_2
+  - first:
+      213: -7976325543633059976
+    second: gravestone6_3
+  - first:
+      213: -5194587889102748653
+    second: gravestone6_4
+  - first:
+      213: -4827453306189947614
+    second: gravestone6_5
+  - first:
+      213: 7519595407526824732
+    second: gravestone6_6
+  - first:
+      213: 7838209030184386893
+    second: gravestone6_7
+  - first:
+      213: -5603688121710781157
+    second: gravestone6_8
+  - first:
+      213: 8322810096398834623
+    second: gravestone6_9
+  - first:
+      213: 8784931992930405466
+    second: gravestone6_10
+  - first:
+      213: -8028331931186843148
+    second: gravestone6_11
+  - first:
+      213: 4443880190493316066
+    second: gravestone6_12
+  - first:
+      213: -6820919730153502103
+    second: gravestone6_13
+  - first:
+      213: -2264288693345960098
+    second: gravestone6_14
+  - first:
+      213: -6641938554296940258
+    second: gravestone6_15
+  - first:
+      213: -8186719767009508033
+    second: gravestone6_16
+  - first:
+      213: -6293120985181604253
+    second: gravestone6_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gravestone6_0
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 801
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2f38db6f6de9680800000000000000
+      internalID: -8746317071077084447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_1
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9496943f0de5e5ba0800000000000000
+      internalID: -6098332593885189815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69c5f2389fd58bd0800000000000000
+      internalID: -2628448962717824661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 652
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f70eead266e4190800000000000000
+      internalID: -7976325543633059976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 630
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3140c7346dd19e7b0800000000000000
+      internalID: -5194587889102748653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_5
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 608
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d53c28bc0710db0800000000000000
+      internalID: -4827453306189947614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_6
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 595
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8b40ce28fa5860800000000000000
+      internalID: 7519595407526824732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 133
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4146679599e6cc60800000000000000
+      internalID: 7838209030184386893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_8
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 3
+        width: 283
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d5a59c753bb32b0800000000000000
+      internalID: -5603688121710781157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_9
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 438
+        width: 29
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb13e0cfaf808370800000000000000
+      internalID: 8322810096398834623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_10
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 437
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc49e5a195ae970800000000000000
+      internalID: 8784931992930405466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_11
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 431
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1beaef4a2a59090800000000000000
+      internalID: -8028331931186843148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_12
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 118
+        width: 27
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3dfb21d75dbad30800000000000000
+      internalID: 4443880190493316066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 443
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4fbae4a93751a0800000000000000
+      internalID: -6820919730153502103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_14
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 428
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f3e2c1e61a390e0800000000000000
+      internalID: -2264288693345960098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_15
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 88
+        width: 199
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c82b431813d3a0800000000000000
+      internalID: -6641938554296940258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_16
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 444
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35cabb3fbde26e80800000000000000
+      internalID: -8186719767009508033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone6_17
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 100
+        width: 6
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366b1bd6ec75aa8a0800000000000000
+      internalID: -6293120985181604253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gravestone6_0: -8746317071077084447
+      gravestone6_1: -6098332593885189815
+      gravestone6_10: 8784931992930405466
+      gravestone6_11: -8028331931186843148
+      gravestone6_12: 4443880190493316066
+      gravestone6_13: -6820919730153502103
+      gravestone6_14: -2264288693345960098
+      gravestone6_15: -6641938554296940258
+      gravestone6_16: -8186719767009508033
+      gravestone6_17: -6293120985181604253
+      gravestone6_2: -2628448962717824661
+      gravestone6_3: -7976325543633059976
+      gravestone6_4: -5194587889102748653
+      gravestone6_5: -4827453306189947614
+      gravestone6_6: 7519595407526824732
+      gravestone6_7: 7838209030184386893
+      gravestone6_8: -5603688121710781157
+      gravestone6_9: 8322810096398834623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

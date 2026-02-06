@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: e1324d3942039114daa561263ed2ac6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4942733349852340113
+    second: bush2_below_cemetery_0
+  - first:
+      213: 1761804717377873821
+    second: bush2_below_cemetery_1
+  - first:
+      213: 7523781000447404007
+    second: bush2_below_cemetery_2
+  - first:
+      213: 1962497558746956037
+    second: bush2_below_cemetery_3
+  - first:
+      213: 1254391505907121444
+    second: bush2_below_cemetery_4
+  - first:
+      213: 4374532650769585384
+    second: bush2_below_cemetery_5
+  - first:
+      213: 3623755461430827223
+    second: bush2_below_cemetery_6
+  - first:
+      213: -3898672164706696619
+    second: bush2_below_cemetery_7
+  - first:
+      213: 5708679111877821819
+    second: bush2_below_cemetery_8
+  - first:
+      213: 8802199895560817698
+    second: bush2_below_cemetery_9
+  - first:
+      213: 3613369514502277801
+    second: bush2_below_cemetery_10
+  - first:
+      213: 6748816578312837119
+    second: bush2_below_cemetery_11
+  - first:
+      213: -8102435024322877183
+    second: bush2_below_cemetery_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bush2_below_cemetery_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 523
+        width: 258
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60239eb432e76bb0800000000000000
+      internalID: -4942733349852340113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_1
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 406
+        width: 76
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d976ae65e00337810800000000000000
+      internalID: 1761804717377873821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_2
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 642
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7208b05f6d96860800000000000000
+      internalID: 7523781000447404007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_3
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 512
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5010fa5c1213c3b10800000000000000
+      internalID: 1962497558746956037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_4
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 493
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7cd6bd6e786110800000000000000
+      internalID: 1254391505907121444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_5
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 134
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e41873c44675bc30800000000000000
+      internalID: 4374532650769585384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85777846a2a4230800000000000000
+      internalID: 3623755461430827223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55244fe725225e9c0800000000000000
+      internalID: -3898672164706696619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 86
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758b28086d493f40800000000000000
+      internalID: 5708679111877821819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 82
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c02e04b22b72a70800000000000000
+      internalID: 8802199895560817698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 270
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4222dd64452230800000000000000
+      internalID: 3613369514502277801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff79a94dbec98ad50800000000000000
+      internalID: 6748816578312837119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_below_cemetery_12
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 0
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092d8f164e5e8f80800000000000000
+      internalID: -8102435024322877183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bush2_below_cemetery_0: -4942733349852340113
+      bush2_below_cemetery_1: 1761804717377873821
+      bush2_below_cemetery_10: 3613369514502277801
+      bush2_below_cemetery_11: 6748816578312837119
+      bush2_below_cemetery_12: -8102435024322877183
+      bush2_below_cemetery_2: 7523781000447404007
+      bush2_below_cemetery_3: 1962497558746956037
+      bush2_below_cemetery_4: 1254391505907121444
+      bush2_below_cemetery_5: 4374532650769585384
+      bush2_below_cemetery_6: 3623755461430827223
+      bush2_below_cemetery_7: -3898672164706696619
+      bush2_below_cemetery_8: 5708679111877821819
+      bush2_below_cemetery_9: 8802199895560817698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

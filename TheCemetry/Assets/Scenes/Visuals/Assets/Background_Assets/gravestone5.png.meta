@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 483b40fbc615f624a8436632d77d8e30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4135215935606440811
+    second: gravestone5_0
+  - first:
+      213: 3738299436290713816
+    second: gravestone5_1
+  - first:
+      213: 4317402531283962385
+    second: gravestone5_2
+  - first:
+      213: 8686216392219227558
+    second: gravestone5_3
+  - first:
+      213: -4096292086257017628
+    second: gravestone5_4
+  - first:
+      213: -5046027317147174075
+    second: gravestone5_5
+  - first:
+      213: 8389409488876190310
+    second: gravestone5_6
+  - first:
+      213: 8846209907459903636
+    second: gravestone5_7
+  - first:
+      213: 7870519084104592846
+    second: gravestone5_8
+  - first:
+      213: 245890359915451783
+    second: gravestone5_9
+  - first:
+      213: 4162656653569739243
+    second: gravestone5_10
+  - first:
+      213: -8145881415977682001
+    second: gravestone5_11
+  - first:
+      213: 7636060740108945246
+    second: gravestone5_12
+  - first:
+      213: -7303471992135867524
+    second: gravestone5_13
+  - first:
+      213: 7556730881780943270
+    second: gravestone5_14
+  - first:
+      213: 901198703452073271
+    second: gravestone5_15
+  - first:
+      213: 8643538355213612711
+    second: gravestone5_16
+  - first:
+      213: -2089769882210842884
+    second: gravestone5_17
+  - first:
+      213: 2624464891882245739
+    second: gravestone5_18
+  - first:
+      213: -4983831761184996947
+    second: gravestone5_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gravestone5_0
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 801
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb4a01403cc96c0800000000000000
+      internalID: -4135215935606440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_1
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8a62ce78b11e330800000000000000
+      internalID: 3738299436290713816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8d854abe7aeb30800000000000000
+      internalID: 4317402531283962385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 652
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f66489c3ab8870800000000000000
+      internalID: 8686216392219227558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 630
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1866fc0c0727c0800000000000000
+      internalID: -4096292086257017628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_5
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 608
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b768ad3e8e8f9b0800000000000000
+      internalID: -5046027317147174075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_6
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 595
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab1cb2b7b2d6470800000000000000
+      internalID: 8389409488876190310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 133
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49050b6aa0d04ca70800000000000000
+      internalID: 8846209907459903636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_8
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 50
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdacfd3863b93d60800000000000000
+      internalID: 7870519084104592846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 65
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7851474caf3996300800000000000000
+      internalID: 245890359915451783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_10
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 89
+        width: 159
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9c0f5fb2ab4c930800000000000000
+      internalID: 4162656653569739243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_11
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 57
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb13ac20404fe80800000000000000
+      internalID: -8145881415977682001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_12
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 438
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57008919ccb8f960800000000000000
+      internalID: 7636060740108945246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_13
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 437
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c732ab92bead4aa90800000000000000
+      internalID: -7303471992135867524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_14
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a907cf13b6eed860800000000000000
+      internalID: 7556730881780943270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_15
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dad4f2273b18c00800000000000000
+      internalID: 901198703452073271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_16
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 428
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b8f0b65404f770800000000000000
+      internalID: 8643538355213612711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_17
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 118
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6438c3d55aff2e0800000000000000
+      internalID: -2089769882210842884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_18
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 444
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e00260ae8fb6420800000000000000
+      internalID: 2624464891882245739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gravestone5_19
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 100
+        width: 6
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1424e2b6fd5dab0800000000000000
+      internalID: -4983831761184996947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gravestone5_0: -4135215935606440811
+      gravestone5_1: 3738299436290713816
+      gravestone5_10: 4162656653569739243
+      gravestone5_11: -8145881415977682001
+      gravestone5_12: 7636060740108945246
+      gravestone5_13: -7303471992135867524
+      gravestone5_14: 7556730881780943270
+      gravestone5_15: 901198703452073271
+      gravestone5_16: 8643538355213612711
+      gravestone5_17: -2089769882210842884
+      gravestone5_18: 2624464891882245739
+      gravestone5_19: -4983831761184996947
+      gravestone5_2: 4317402531283962385
+      gravestone5_3: 8686216392219227558
+      gravestone5_4: -4096292086257017628
+      gravestone5_5: -5046027317147174075
+      gravestone5_6: 8389409488876190310
+      gravestone5_7: 8846209907459903636
+      gravestone5_8: 7870519084104592846
+      gravestone5_9: 245890359915451783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

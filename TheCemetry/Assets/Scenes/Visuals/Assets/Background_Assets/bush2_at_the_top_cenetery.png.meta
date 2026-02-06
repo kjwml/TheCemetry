@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 19373b0639430d84c9a5a9588d5ba4c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4197315864589751913
+    second: bush2_at_the_top_cenetery_0
+  - first:
+      213: 6756357432118954430
+    second: bush2_at_the_top_cenetery_1
+  - first:
+      213: -8435024985589971717
+    second: bush2_at_the_top_cenetery_2
+  - first:
+      213: 8286055430951712952
+    second: bush2_at_the_top_cenetery_3
+  - first:
+      213: -4859052656727136252
+    second: bush2_at_the_top_cenetery_4
+  - first:
+      213: -306501338680972933
+    second: bush2_at_the_top_cenetery_5
+  - first:
+      213: 2784163813848979664
+    second: bush2_at_the_top_cenetery_6
+  - first:
+      213: -3908149955495350697
+    second: bush2_at_the_top_cenetery_7
+  - first:
+      213: -8937162016952177614
+    second: bush2_at_the_top_cenetery_8
+  - first:
+      213: 5416020808345272180
+    second: bush2_at_the_top_cenetery_9
+  - first:
+      213: -7656683050548414256
+    second: bush2_at_the_top_cenetery_10
+  - first:
+      213: -4398876823079148154
+    second: bush2_at_the_top_cenetery_11
+  - first:
+      213: 5009139123767508549
+    second: bush2_at_the_top_cenetery_12
+  - first:
+      213: 4841521379068600933
+    second: bush2_at_the_top_cenetery_13
+  - first:
+      213: 4797296906981496170
+    second: bush2_at_the_top_cenetery_14
+  - first:
+      213: -1324665285140997405
+    second: bush2_at_the_top_cenetery_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 526
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992401a57320c5c0800000000000000
+      internalID: -4197315864589751913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 531
+        width: 203
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9450da94763cd50800000000000000
+      internalID: 6756357432118954430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 618
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48d5e5775c0fa80800000000000000
+      internalID: -8435024985589971717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 615
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8b217538bfdf270800000000000000
+      internalID: 8286055430951712952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 584
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086cd26a5d219cb0800000000000000
+      internalID: -4859052656727136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 541
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792db808a61fbbf0800000000000000
+      internalID: -306501338680972933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 593
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d817f0dc3653a620800000000000000
+      internalID: 2784163813848979664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 405
+        width: 48
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eadbd525673c9c0800000000000000
+      internalID: -3908149955495350697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 488
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca3772f72d8f380800000000000000
+      internalID: -8937162016952177614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_9
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 487
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f3b89da32992b40800000000000000
+      internalID: 5416020808345272180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8be46155ffdb590800000000000000
+      internalID: -7656683050548414256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 28
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852bade5dc04f2c0800000000000000
+      internalID: -4398876823079148154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 72
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7ca65e79048540800000000000000
+      internalID: 5009139123767508549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 213
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e7d3fa0a803340800000000000000
+      internalID: 4841521379068600933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_14
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 25
+        width: 250
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6556b6ae1c639240800000000000000
+      internalID: 4797296906981496170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush2_at_the_top_cenetery_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea11e801f7dd9de0800000000000000
+      internalID: -1324665285140997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bush2_at_the_top_cenetery_0: -4197315864589751913
+      bush2_at_the_top_cenetery_1: 6756357432118954430
+      bush2_at_the_top_cenetery_10: -7656683050548414256
+      bush2_at_the_top_cenetery_11: -4398876823079148154
+      bush2_at_the_top_cenetery_12: 5009139123767508549
+      bush2_at_the_top_cenetery_13: 4841521379068600933
+      bush2_at_the_top_cenetery_14: 4797296906981496170
+      bush2_at_the_top_cenetery_15: -1324665285140997405
+      bush2_at_the_top_cenetery_2: -8435024985589971717
+      bush2_at_the_top_cenetery_3: 8286055430951712952
+      bush2_at_the_top_cenetery_4: -4859052656727136252
+      bush2_at_the_top_cenetery_5: -306501338680972933
+      bush2_at_the_top_cenetery_6: 2784163813848979664
+      bush2_at_the_top_cenetery_7: -3908149955495350697
+      bush2_at_the_top_cenetery_8: -8937162016952177614
+      bush2_at_the_top_cenetery_9: 5416020808345272180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

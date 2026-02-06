@@ -66,6 +66,9 @@ TagManager:
   - name: Interactibles
     uniqueID: 1590016709
     locked: 0
+  - name: Interactibles_Deco
+    uniqueID: 3499114699
+    locked: 0
   - name: NPCs
     uniqueID: 2927766487
     locked: 0
