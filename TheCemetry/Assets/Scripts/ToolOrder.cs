@@ -25,41 +25,33 @@ public class ToolOrder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-         if (BrownDirtParent.childCount ==0 && spongeTool.gameObject.activeSelf)
+         if (BrownDirtParent.childCount ==0)
         {
-            spongeTool.SetActive(false);
+            spongeTool.SetActive(true);
             brushTool.SetActive(true);
             shovelTool.SetActive(false);
             wateringCanTool.SetActive(false);
             clothTool.SetActive(false);
         }
-        else
+
+
+        if (GreenDirtParent.childCount ==0 )
         {
             spongeTool.SetActive(true);
-            brushTool.SetActive(false);
-            shovelTool.SetActive(false);
-            wateringCanTool.SetActive(false);
-            clothTool.SetActive(false);
-        }
-
-        if (GreenDirtParent.childCount ==0 && brushTool.gameObject.activeSelf)
-        {
-            spongeTool.SetActive(false);
-            brushTool.SetActive(false);
+            brushTool.SetActive(true);
             shovelTool.SetActive(true);
             wateringCanTool.SetActive(false);
             clothTool.SetActive(false);
         }
+    
 
-        if (RockParent.childCount ==0 && shovelTool.gameObject.activeSelf)
+        if (RockParent.childCount ==0 )
         {
-            spongeTool.SetActive(false);
-            brushTool.SetActive(false);
-            shovelTool.SetActive(false);
+            spongeTool.SetActive(true);
+            brushTool.SetActive(true);
+            shovelTool.SetActive(true);
             wateringCanTool.SetActive(true);
             clothTool.SetActive(false);
         }
-
     }
-
 }
