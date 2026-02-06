@@ -39,6 +39,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.pixel-perfect": {
+<<<<<<< HEAD
       "version": "5.0.3",
       "depth": 1,
       "source": "registry",
@@ -50,6 +51,21 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {
+=======
+      "version": "5.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.2d.psdimporter": {
+      "version": "9.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+>>>>>>> parent of f2018d9 (sdfsdf)
         "com.unity.2d.common": "9.1.1",
         "com.unity.2d.sprite": "1.0.0"
       },
@@ -133,7 +149,11 @@
       "source": "builtin",
       "dependencies": {
         "com.unity.2d.animation": "10.2.1",
+<<<<<<< HEAD
         "com.unity.2d.pixel-perfect": "5.0.3",
+=======
+        "com.unity.2d.pixel-perfect": "5.1.0",
+>>>>>>> parent of f2018d9 (sdfsdf)
         "com.unity.2d.psdimporter": "9.1.0",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.2d.spriteshape": "10.0.7",
