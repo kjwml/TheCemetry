@@ -15,11 +15,13 @@ MonoBehaviour:
   sentences:
   - name: Stranger
     text: "I didn\u2019t know her. I want to be clear about that. I came because
-      I didn\u2019t want her to disappear into headlines. I learned her name the
-      same way I learned the others\u2019. From a list. That didn\u2019t feel right."
+      I didn\u2019t want her to disappear into headlines. "
   - name: Stranger
-    text: 
+    text: "I learned her name the same way I learned the others\u2019. From a list.
+      That didn\u2019t feel right."
   - name: Stranger
-    text: 
+    text: There were a lot of people at the vigil. Someone brought fabric, tied it
+      where people could see it move in the wind.
   - name: Stranger
-    text: 
+    text: Someone else lit something and stayed until it burned down. No one told
+      them to. It just felt wrong to leave things bare.

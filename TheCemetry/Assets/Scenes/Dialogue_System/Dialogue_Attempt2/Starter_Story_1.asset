@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Starter_Story_1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Wife
+    text: "Pardon? Yes. Yes, I\u2026 If you can clean his gravestone? Why would\u2026"
+  - name: Wife
+    text: "I\u2019m not going to stop you, I\u2019m just curious as to why but\u2026
+      yes. You may. Thank you."
