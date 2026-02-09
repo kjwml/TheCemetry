@@ -24,7 +24,7 @@ public class Opacity : MonoBehaviour
     {
         if (!waterOver) return;
 
-                Vector3 mouseDelta = Input.mousePosition - lastMousePosition;
+        Vector3 mouseDelta = Input.mousePosition - lastMousePosition;
         float movement = mouseDelta.magnitude;
 
         if (movement > 0f)
@@ -40,10 +40,17 @@ public class Opacity : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-            if (other.CompareTag("WaterCan"))
-            waterOver = false;
+        if (other.CompareTag("WaterCan"))
+            waterOver = true;
     }
 
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("WaterCan"))
+        {
+            waterOver = false;
+        }
+    }
     public bool IsFullyVisible
     {
         get { return spriteRenderer.color.a >= 1f; }

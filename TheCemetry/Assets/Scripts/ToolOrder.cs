@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ToolOrder : MonoBehaviour
 {
@@ -26,59 +26,57 @@ public class ToolOrder : MonoBehaviour
         if (shineGraveStone != null)
         {
             shineOpacity = shineGraveStone.GetComponent<Opacity>();
-            if (shineOpacity == null)
-            {
-                Debug.LogError("Opacity-Komponente fehlt auf shineGraveStone!");
-            }
-        }
-        else
-        {
-            Debug.LogError("shineGraveStone ist nicht zugewiesen!");
-        }
 
+        }
     }
-
 
     private bool clothActivated = false;
 
     // Update is called once per frame
     void Update()
-
     {
-         if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
-         {
-                clothTool.SetActive(true);
-                clothActivated = true;
-         }
+        // Erst alles deaktivieren
+        spongeTool.SetActive(false);
+        brushTool.SetActive(false);
+        shovelTool.SetActive(false);
+        wateringCanTool.SetActive(false);
+        clothTool.SetActive(false);
 
-
-        if (BrownDirtParent.childCount ==0)
+        // 1️⃣ Brauner Dreck NOCH da → Sponge
+        if (BrownDirtParent.childCount > 0)
         {
             spongeTool.SetActive(true);
-            brushTool.SetActive(true);
-            shovelTool.SetActive(false);
-            wateringCanTool.SetActive(false);
-            clothTool.SetActive(false);
+            return;
         }
 
-
-        if (GreenDirtParent.childCount ==0 )
+        // 2️⃣ Grüner Dreck NOCH da → Brush
+        if (GreenDirtParent.childCount > 0)
         {
-            spongeTool.SetActive(true);
             brushTool.SetActive(true);
-            shovelTool.SetActive(true);
-            wateringCanTool.SetActive(false);
-            clothTool.SetActive(false);
+            return;
         }
-    
 
-        if (RockParent.childCount ==0 )
+        // 3️⃣ Steine NOCH da → Shovel
+        if (RockParent.childCount > 0)
         {
-            spongeTool.SetActive(true);
-            brushTool.SetActive(true);
             shovelTool.SetActive(true);
+            return;
+        }
+
+        // 4️⃣ Alles weg → Watering Can
+
+        // 4️⃣ Alles sauber → Watering Can (Opacity erhöhen)
+        if (shineOpacity != null && !shineOpacity.IsFullyVisible)
+        {
             wateringCanTool.SetActive(true);
-            clothTool.SetActive(false);
+            return;
+        }
+
+        // 5️⃣ Opacity = 1 → Cloth
+        if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
+        {
+            clothActivated = true;
+            clothTool.SetActive(true);
         }
     }
 }
