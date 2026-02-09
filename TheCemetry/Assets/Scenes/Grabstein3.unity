@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 57572262}
   - component: {fileID: 57572265}
   - component: {fileID: 57572264}
+  - component: {fileID: 57572266}
   m_Layer: 0
   m_Name: story3_gravestone_with_cracks_1
   m_TagString: Untagged
@@ -179,8 +180,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1345412831
-  m_SortingLayer: 4
+  m_SortingLayerID: 1553196543
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 2009648476595346129, guid: ae67232afe3172b44a7320520c904594, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -239,6 +240,51 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!61 &57572266
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57572261}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.4529295, y: 0.4529295}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 8, y: 7.22}
+    newSize: {x: 8, y: 7.22}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 7.094141, y: 6.3141403}
+  m_EdgeRadius: 0
 --- !u!1 &69529125
 GameObject:
   m_ObjectHideFlags: 0
