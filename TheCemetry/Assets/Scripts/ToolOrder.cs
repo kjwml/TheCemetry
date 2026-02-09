@@ -6,11 +6,14 @@ public class ToolOrder : MonoBehaviour
     public Transform BrownDirtParent;
     public Transform GreenDirtParent;
     public Transform RockParent;
+    public Transform shineGraveStone;
     public GameObject spongeTool;
     public GameObject brushTool;
     public GameObject shovelTool;
     public GameObject wateringCanTool;
     public GameObject clothTool;
+    private Opacity shineOpacity;
+
     
     void Start()
     {
@@ -19,13 +22,37 @@ public class ToolOrder : MonoBehaviour
             shovelTool.SetActive(false);
             wateringCanTool.SetActive(false);
             clothTool.SetActive(false);
-        
+
+        if (shineGraveStone != null)
+        {
+            shineOpacity = shineGraveStone.GetComponent<Opacity>();
+            if (shineOpacity == null)
+            {
+                Debug.LogError("Opacity-Komponente fehlt auf shineGraveStone!");
+            }
+        }
+        else
+        {
+            Debug.LogError("shineGraveStone ist nicht zugewiesen!");
+        }
+
     }
+
+
+    private bool clothActivated = false;
 
     // Update is called once per frame
     void Update()
+
     {
-         if (BrownDirtParent.childCount ==0)
+         if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
+         {
+                clothTool.SetActive(true);
+                clothActivated = true;
+         }
+
+
+        if (BrownDirtParent.childCount ==0)
         {
             spongeTool.SetActive(true);
             brushTool.SetActive(true);
