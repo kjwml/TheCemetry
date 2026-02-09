@@ -17,7 +17,10 @@ public class Opacity : MonoBehaviour
     {
         this.lastMousePosition = lastMousePosition;
     }
-
+    public bool IsFullyVisible
+    {
+        get { return spriteRenderer.color.a >= 1f; }
+    }
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
