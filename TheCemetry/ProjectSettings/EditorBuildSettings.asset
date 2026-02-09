@@ -14,5 +14,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Grabstein1.unity
     guid: ab63b2c9ea31c44efbc31085c3aac1c0
+  - enabled: 1
+    path: Assets/Scenes/Friedhof_Tag_2.unity
+    guid: 2c00931da941fee4c87c5ad15db3eef7
+  - enabled: 1
+    path: Assets/Scenes/Grabstein2.unity
+    guid: c05540981ccfd4652af792198d3a0262
+  - enabled: 1
+    path: Assets/Scenes/Friedhof_Tag_3.unity
+    guid: 9f02c28a9dfa4174da43d3c79c551615
+  - enabled: 1
+    path: Assets/Scenes/Grabstein3.unity
+    guid: 7ed824c35d4e04105b855d40abe26ce1
+  - enabled: 1
+    path: Assets/Scenes/Friedhof_Tag_4.unity
+    guid: 38483a4080c578146a40293cebbe6b9a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
