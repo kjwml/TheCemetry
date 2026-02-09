@@ -7,25 +7,28 @@ public class Opacity : MonoBehaviour
     // Start is called before the first frame update
     public SpriteRenderer spriteRenderer;
     public float revealSpeed = 1f;
+
     private bool waterOver = false;
-    private Vector3 lastMousePosition;
+    private GameObject waterCan;
+    private Vector3 lastCanPosition;
 
     void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer == null)
+            spriteRenderer = GetComponent<SpriteRenderer>();
+
         Color c = spriteRenderer.color;
         c.a = 0f;
         spriteRenderer.color = c;
-        lastMousePosition = Input.mousePosition;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!waterOver) return;
+        if (!waterOver || waterCan == null) return;
 
-        Vector3 mouseDelta = Input.mousePosition - lastMousePosition;
-        float movement = mouseDelta.magnitude;
+        // Bewegung des WaterCan-Objekts messen
+        float movement = Vector3.Distance(waterCan.transform.position, lastCanPosition);
 
         if (movement > 0f)
         {
@@ -35,13 +38,17 @@ public class Opacity : MonoBehaviour
             spriteRenderer.color = c;
         }
 
-        lastMousePosition = Input.mousePosition;
+        lastCanPosition = waterCan.transform.position;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("WaterCan"))
+        {
             waterOver = true;
+            waterCan = other.gameObject;
+            lastCanPosition = waterCan.transform.position;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
@@ -49,10 +56,9 @@ public class Opacity : MonoBehaviour
         if (other.CompareTag("WaterCan"))
         {
             waterOver = false;
+            waterCan = null;
         }
     }
-    public bool IsFullyVisible
-    {
-        get { return spriteRenderer.color.a >= 1f; }
-    }
+
+    public bool IsFullyVisible => spriteRenderer.color.a >= 1f;
 }
