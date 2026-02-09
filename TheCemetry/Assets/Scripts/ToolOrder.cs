@@ -36,7 +36,7 @@ public class ToolOrder : MonoBehaviour
     void Update()
     {
         // Erst alles deaktivieren
-        spongeTool.SetActive(false);
+        spongeTool.SetActive(true);
         brushTool.SetActive(false);
         shovelTool.SetActive(false);
         wateringCanTool.SetActive(false);
