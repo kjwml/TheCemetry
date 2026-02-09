@@ -2,13 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - Sponge
   - Brush
   - Shovel
-  - WaterCan
-  - Cloth
   layers:
   - Default
   - TransparentFX
@@ -82,3 +80,5 @@ TagManager:
   - name: Dialogue
     uniqueID: 2055993719
     locked: 0
+  m_RenderingLayers:
+  - Default
