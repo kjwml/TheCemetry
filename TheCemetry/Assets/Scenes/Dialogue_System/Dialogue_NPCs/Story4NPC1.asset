@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story4NPC1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Mother
+    text: I told him not to trust uniforms. Not his. Theirs. He laughed at me. Said
+      I worried too much and that things are different now.
+  - name: Mother
+    text: "I have lived long enough to know that \u2018different\u2019 is just another
+      way of saying \u2018not for everyone.\u2019"
+  - name: Mother
+    text: "People from home would laugh like it was a joke. \u2018A cop?\u2019 they\u2019d
+      say. \u2018With your face?\u2019  Like it was a costume he had no right to
+      wear. "
+  - name: Mother
+    text: Jokes are how people tell the truth without taking responsibility. He wanted
+      to prove them wrong. Wanted to show that you can serve a place without erasing
+      where you come from.
+  - name: Mother
+    text: "I go to church more often now. It gives me words when I don\u2019t have
+      my own. God sees effort.  He didn\u2019t need that."
+  - name: Mother
+    text: "He believed in action. In being \u2018a good man.\u2019 Now I pray differently.
+      Not for answers. Just that his name is said correctly. That he is not reduced
+      to an error."
+  - name: Mother
+    text: " Maybe that\u2019s why this hurts so much. He did everything they say
+      they want from a good man.  And still, they didn\u2019t recognize him."
+  - name: Mother
+    text: "I\u2019ll light a candle. It\u2019s something I can still do for my son.
+      Even now."

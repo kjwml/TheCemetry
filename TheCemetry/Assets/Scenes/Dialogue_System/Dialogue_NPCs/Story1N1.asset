@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story1N1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Daughter
+    text: "You\u2019re that cleaner from a couple days ago, yes? Anne told me. Thank
+      you for this, he\u2026 I know he\u2019d be grateful too."
+  - name: Daughter
+    text: "Reminds me of how he always used to pack extra napkins. I also always
+      told him we didn\u2019t need them. \u2018Someone always does\u2019, he\u2019d
+      say, you know?"
+  - name: Daughter
+    text: "I didn\u2019t like standing near the stand after school. Convenient for
+      the food. For me. For the others."
+  - name: Daughter
+    text: Everyone knew me if they knew him. Now I keep wishing I stayed longer.

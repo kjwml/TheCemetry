@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story4NPC2
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Shooter
+    text: Training tells you to decide fast. Faster than thought. You see movement,
+      you see a shape, and your body finishes the sentence before your brain does.
+  - name: Shooter
+    text: "Told myself I followed procedure.\r\nThen I saw his name. Where he worked.
+      How long he\u2019d been on the force. I didn\u2019t see a colleague."
+  - name: Shooter
+    text: "I saw a threat. That wasn\u2019t instinct. That was learned\u2026 Why
+      did I feel so confident in that moment?..."

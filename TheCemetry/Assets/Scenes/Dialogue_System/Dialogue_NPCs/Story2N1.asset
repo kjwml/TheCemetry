@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story2N1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Son
+    text: 'Everyone talks like they knew her. Like they were there. Now people act
+      like she belongs to everyone. '
+  - name: Son
+    text: All I ever got were forms. Sign here. Wait there. That was my version of
+      her. People keep telling me she was brave. That she suffered. That I should
+      be proud.
+  - name: Son
+    text: "But pride is difficult when someone didn\u2019t want you to know from
+      the start."
+  - name: Son
+    text: "I pass by here sometimes\u2026 I see sweet things on the grave. Maybe
+      that means she was gentle at home."
+  - name: Son
+    text: "Or maybe it doesn\u2019t mean anything at all\u2026 Do you think she\u2019s
+      happy I haven\u2019t forgotten?..."
+  - name: Son
+    text: I should leave something here. Make it something that says her name meant
+      more than a case number. Even to me.

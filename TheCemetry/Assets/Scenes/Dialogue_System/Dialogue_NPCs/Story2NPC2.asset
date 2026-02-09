@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story2NPC2
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Drunk Cop
+    text: "We took everything off her. Standard procedure. Yet I keep smelling smoke.
+      Clothes. Belongings. Anything that made her\u2026 specific."
+  - name: Drunk Cop
+    text: "Cells aren\u2019t kind places for the dark. Or the cold. We were told
+      a story and we repeated it until it sounded true. That\u2019s how it works,
+      right?"
+  - name: Drunk Cop
+    text: "I keep thinking about how quiet it got after\u2026 I shouldn\u2019t be
+      here. Not in uniform. Doesn\u2019t matter."
