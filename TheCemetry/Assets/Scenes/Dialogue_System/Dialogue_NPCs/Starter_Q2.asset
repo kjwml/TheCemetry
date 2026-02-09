@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Starter_Q2
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Mother
+    text: "This was my daughter, yes\u2026 No, she is, forever will be. I thought
+      I did most of it already but\u2026 can never be too much?"
+  - name: Mother
+    text: "But please - be careful. We\u2019re about to celebrate, I came here to
+      make space for her."

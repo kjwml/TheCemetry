@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Story3NPC1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Friend
+    text: "I wasn\u2019t there. I had a shift. I was tired. I keep replaying that
+      like it\u2019s a different ending. I thought I\u2019d see her later. There\u2019s
+      always a later. Ironic, right?"
+  - name: Friend
+    text: "I keep thinking about the message I didn\u2019t send. About the cake I
+      joked we\u2019d buy. People tell me it\u2019s not my fault. I know that."
+  - name: Friend
+    text: "But knowing something doesn\u2019t make it stop hurting. She used to make
+      fun of me for hating candles - Gifted me a scented one every occasion she found\u2026
+      I still do."
+  - name: Friend
+    text: "Especially now that it\u2019s her getting them, eh? At least she\u2019ll
+      know I\u2019ll come back to relight them."
