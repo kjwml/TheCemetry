@@ -2,33 +2,39 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEngine;
+
 public class Opacity : MonoBehaviour
+
 {
-    // Start is called before the first frame update
-    public SpriteRenderer spriteRenderer;
-    public float revealSpeed = 1f;
-
+    public float revealSpeed = 0.5f;
+    private SpriteRenderer spriteRenderer;
     private bool waterOver = false;
-    private GameObject waterCan;
-    private Vector3 lastCanPosition;
+    private Vector3 lastMousePosition;
 
+    // Start is called before the first frame update
     void Start()
     {
-        if (spriteRenderer == null)
-            spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
 
         Color c = spriteRenderer.color;
         c.a = 0f;
         spriteRenderer.color = c;
+
+        lastMousePosition = Input.mousePosition;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!waterOver || waterCan == null) return;
+        if (!waterOver) return;
 
-        // Bewegung des WaterCan-Objekts messen
-        float movement = Vector3.Distance(waterCan.transform.position, lastCanPosition);
+        Vector3 mouseDelta = Input.mousePosition - lastMousePosition;
+        float movement = mouseDelta.magnitude;
 
         if (movement > 0f)
         {
@@ -36,29 +42,27 @@ public class Opacity : MonoBehaviour
             c.a += movement * revealSpeed * Time.deltaTime;
             c.a = Mathf.Clamp01(c.a);
             spriteRenderer.color = c;
+
         }
 
-        lastCanPosition = waterCan.transform.position;
+        lastMousePosition = Input.mousePosition;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("WaterCan"))
-        {
             waterOver = true;
-            waterCan = other.gameObject;
-            lastCanPosition = waterCan.transform.position;
-        }
     }
 
-    private void OnTriggerExit2D(Collider2D other)
+    void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("WaterCan"))
-        {
             waterOver = false;
-            waterCan = null;
-        }
     }
 
-    public bool IsFullyVisible => spriteRenderer.color.a >= 1f;
+    public bool IsFullyVisible
+    {
+        get { return spriteRenderer != null && spriteRenderer.color.a >= 1f; }
+    }
 }
+
