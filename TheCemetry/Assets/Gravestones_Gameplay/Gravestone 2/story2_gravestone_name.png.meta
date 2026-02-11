@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: fbaf4553889fe584d8b0621cfa8e251e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7545903762511606630
+    second: story2_gravestone_name_0
+  - first:
+      213: 1186857566442063566
+    second: story2_gravestone_name_1
+  - first:
+      213: 1867205386847063670
+    second: story2_gravestone_name_2
+  - first:
+      213: -9064034522093852194
+    second: story2_gravestone_name_3
+  - first:
+      213: 347333174646079479
+    second: story2_gravestone_name_4
+  - first:
+      213: -6199206423691880040
+    second: story2_gravestone_name_5
+  - first:
+      213: -6014677420384311047
+    second: story2_gravestone_name_6
+  - first:
+      213: -6094795151858921835
+    second: story2_gravestone_name_7
+  - first:
+      213: 5823641658287590308
+    second: story2_gravestone_name_8
+  - first:
+      213: 269172852885248230
+    second: story2_gravestone_name_9
+  - first:
+      213: 2752958267775979284
+    second: story2_gravestone_name_10
+  - first:
+      213: 4948093624485478452
+    second: story2_gravestone_name_11
+  - first:
+      213: -2493344812975113293
+    second: story2_gravestone_name_12
+  - first:
+      213: -4470153955344950363
+    second: story2_gravestone_name_13
+  - first:
+      213: 8823553320778223352
+    second: story2_gravestone_name_14
+  - first:
+      213: 6307078158546299178
+    second: story2_gravestone_name_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: story2_gravestone_name_0
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 641
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b9c9fd7f68b860800000000000000
+      internalID: 7545903762511606630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 640
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec683ce1ba0987010800000000000000
+      internalID: 1186857566442063566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_2
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 640
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e07bd0865a9e910800000000000000
+      internalID: 1867205386847063670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 640
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e7be10a4163280800000000000000
+      internalID: -9064034522093852194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 706
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fffc7d9ea9f1d400800000000000000
+      internalID: 347333174646079479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899968a3a9ef7f9a0800000000000000
+      internalID: -6199206423691880040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f82e67d0c2978ca0800000000000000
+      internalID: -6014677420384311047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_7
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 640
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e0daad910fa6ba0800000000000000
+      internalID: -6094795151858921835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_8
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 640
+        width: 164
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab0665bb3bb1d050800000000000000
+      internalID: 5823641658287590308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 520
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85767984b4cb300800000000000000
+      internalID: 269172852885248230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 518
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f034075f8743620800000000000000
+      internalID: 2752958267775979284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 518
+        width: 156
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43005d27fe82ba440800000000000000
+      internalID: 4948093624485478452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 520
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3e085a1cd56dd0800000000000000
+      internalID: -2493344812975113293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_13
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 518
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5b5859a2d6f1c0800000000000000
+      internalID: -4470153955344950363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 518
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe44bdfefe837a70800000000000000
+      internalID: 8823553320778223352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: story2_gravestone_name_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 518
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e6ca3b2e378750800000000000000
+      internalID: 6307078158546299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      story2_gravestone_name_0: 7545903762511606630
+      story2_gravestone_name_1: 1186857566442063566
+      story2_gravestone_name_10: 2752958267775979284
+      story2_gravestone_name_11: 4948093624485478452
+      story2_gravestone_name_12: -2493344812975113293
+      story2_gravestone_name_13: -4470153955344950363
+      story2_gravestone_name_14: 8823553320778223352
+      story2_gravestone_name_15: 6307078158546299178
+      story2_gravestone_name_2: 1867205386847063670
+      story2_gravestone_name_3: -9064034522093852194
+      story2_gravestone_name_4: 347333174646079479
+      story2_gravestone_name_5: -6199206423691880040
+      story2_gravestone_name_6: -6014677420384311047
+      story2_gravestone_name_7: -6094795151858921835
+      story2_gravestone_name_8: 5823641658287590308
+      story2_gravestone_name_9: 269172852885248230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
