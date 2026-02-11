@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 5e17af35844521f4592215a980beac26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8295701242181474898
+    second: finish_button_0
+  - first:
+      213: 7798791675323962897
+    second: finish_button_1
+  - first:
+      213: -4096293254471105582
+    second: finish_button_2
+  - first:
+      213: -410277603545559802
+    second: finish_button_3
+  - first:
+      213: -1194710055590750755
+    second: finish_button_4
+  - first:
+      213: 6463737749899631893
+    second: finish_button_5
+  - first:
+      213: 6351318245649660902
+    second: finish_button_6
+  - first:
+      213: 1841788932194955618
+    second: finish_button_7
+  - first:
+      213: -7358059295025344902
+    second: finish_button_8
+  - first:
+      213: 3280284667681718854
+    second: finish_button_9
+  - first:
+      213: -7374720663548326464
+    second: finish_button_10
+  - first:
+      213: 9143829166242116489
+    second: finish_button_11
+  - first:
+      213: 8935331024347254470
+    second: finish_button_12
+  - first:
+      213: 5889832739727076087
+    second: finish_button_13
+  - first:
+      213: -8526089955307959538
+    second: finish_button_14
+  - first:
+      213: 6504083561119200459
+    second: finish_button_15
+  - first:
+      213: 3633098656990688448
+    second: finish_button_16
+  - first:
+      213: 2224748732236117662
+    second: finish_button_17
+  - first:
+      213: -7573847084591546960
+    second: finish_button_18
+  - first:
+      213: 5240244703806642237
+    second: finish_button_19
+  - first:
+      213: -2147265321789199049
+    second: finish_button_20
+  - first:
+      213: 5377806998546271103
+    second: finish_button_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finish_button_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1548
+        width: 12
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a5ef6c350402370800000000000000
+      internalID: 8295701242181474898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1475
+        width: 10
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11655fc75bfda3c60800000000000000
+      internalID: 7798791675323962897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1511
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3cb67fcfa0727c0800000000000000
+      internalID: -4096293254471105582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1491
+        width: 158
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4e5d71b66e4af0800000000000000
+      internalID: -410277603545559802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1431
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51de6c8898b6fe0800000000000000
+      internalID: -1194710055590750755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1504
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddc08bc3fc3b950800000000000000
+      internalID: 6463737749899631893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1500
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebb76f2b4a642850800000000000000
+      internalID: 6351318245649660902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1252
+        width: 575
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f9be86495f8910800000000000000
+      internalID: 1841788932194955618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1430
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec0cb4e0ce2e990800000000000000
+      internalID: -7358059295025344902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1442
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642445b8689e58d20800000000000000
+      internalID: 3280284667681718854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1403
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd087321aab7a990800000000000000
+      internalID: -7374720663548326464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_11
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1400
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983b7bc3e2865ee70800000000000000
+      internalID: 9143829166242116489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_12
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1344
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceceb8a93ca00c70800000000000000
+      internalID: 8935331024347254470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1193
+        width: 23
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fae5edcba3ecb150800000000000000
+      internalID: 5889832739727076087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1136
+        width: 88
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc7dadb5e3da980800000000000000
+      internalID: -8526089955307959538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1290
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b7f9e985234a50800000000000000
+      internalID: 6504083561119200459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1222
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f0e3cafb5b6230800000000000000
+      internalID: 3633098656990688448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1216
+        width: 267
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963f6b4f25efde10800000000000000
+      internalID: 2224748732236117662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1221
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfacb543a44e690800000000000000
+      internalID: -7573847084591546960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_19
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1176
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38548a4bc619b840800000000000000
+      internalID: 5240244703806642237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1183
+        width: 136
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6d3801916332e0800000000000000
+      internalID: -2147265321789199049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finish_button_21
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1133
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc5fae8fec1aa40800000000000000
+      internalID: 5377806998546271103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      finish_button_0: 8295701242181474898
+      finish_button_1: 7798791675323962897
+      finish_button_10: -7374720663548326464
+      finish_button_11: 9143829166242116489
+      finish_button_12: 8935331024347254470
+      finish_button_13: 5889832739727076087
+      finish_button_14: -8526089955307959538
+      finish_button_15: 6504083561119200459
+      finish_button_16: 3633098656990688448
+      finish_button_17: 2224748732236117662
+      finish_button_18: -7573847084591546960
+      finish_button_19: 5240244703806642237
+      finish_button_2: -4096293254471105582
+      finish_button_20: -2147265321789199049
+      finish_button_21: 5377806998546271103
+      finish_button_3: -410277603545559802
+      finish_button_4: -1194710055590750755
+      finish_button_5: 6463737749899631893
+      finish_button_6: 6351318245649660902
+      finish_button_7: 1841788932194955618
+      finish_button_8: -7358059295025344902
+      finish_button_9: 3280284667681718854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
