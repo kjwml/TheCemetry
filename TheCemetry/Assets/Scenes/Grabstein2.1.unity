@@ -359,6 +359,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dialog
       objectReference: {fileID: 0}
+    - target: {fileID: 3679874956945750376, guid: 9cf68e48161a5ab4daf4f9bf83052942, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -260.8033
+      objectReference: {fileID: 0}
+    - target: {fileID: 3679874956945750376, guid: 9cf68e48161a5ab4daf4f9bf83052942, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -266.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3679874956945750376, guid: 9cf68e48161a5ab4daf4f9bf83052942, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 5.6396
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
