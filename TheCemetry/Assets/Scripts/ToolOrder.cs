@@ -13,6 +13,7 @@ public class ToolOrder : MonoBehaviour
     public GameObject wateringCanTool;
     public GameObject clothTool;
     private Opacity shineOpacity;
+    
 
     
     void Start()
@@ -78,15 +79,17 @@ public class ToolOrder : MonoBehaviour
                 clothTool.SetActive(false);
             }
 
-        if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
+        if (shineOpacity != null && shineOpacity.IsFullyVisible)
         {
                 spongeTool.SetActive(false);
                 brushTool.SetActive(false);
                 shovelTool.SetActive(false);
                 wateringCanTool.SetActive(true);
                 clothTool.SetActive(true);
-                clothActivated = true;
+             
+        }
+         
+            
         }
     }
-}
 }

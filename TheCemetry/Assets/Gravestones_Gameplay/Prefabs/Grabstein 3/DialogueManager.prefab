@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8466770048869127106
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 712394578815891293}
+  - component: {fileID: 2836612012122972274}
+  m_Layer: 0
+  m_Name: DialogueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &712394578815891293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8466770048869127106}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.2544641, y: 0.36188695, z: -9.929304}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2836612012122972274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8466770048869127106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036f1ca899ae095419812cc154bd0af0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechBubble: {fileID: 0}
+  dialogueText: {fileID: 0}
+  dialogue:
+  - "\u201CWhat he was like? People keep asking me what he was like. As if that\u2019s
+    difficult, you don\u2019t have to ask me for that. Ah, Askim\u2026 He always
+    woke up earlier than he needed to. Said food tastes better when you make it before
+    the world gets loud. I used to complain about the smell of oil in his clothes.
+    Now I miss it. The stand wasn\u2019t just work. It kept us afloat. It was\u2026
+    how he stayed visible. Everyone knew where to find him. *They* keep asking questions.
+    Not about the day itself. About him. What kind of people came by. What he talked
+    about. As if kindness could be suspicious. As if the problem started at our counter."
+  - "If you\u2019re taking care of the grave, don\u2019t make it grand. He never
+    liked things that tried too hard. He liked simple things. Warm food. A clean
+    counter. Knowing someone would be fed before school let out\u2026 That\u2019s
+    enough.\u201D"
+  - "\u201CPeople think grief is loud. It isn\u2019t. It\u2019s waking up and realizing
+    you don\u2019t know what to do with the morning anymore.\u201D"
+  - "\u201CYou\u2019re that cleaner from yesterday, yes? Anne told me. Thank you
+    for this, he\u2026 I know he\u2019d be grateful too. Reminds me of how he always
+    used to pack extra napkins. I also always told him we didn\u2019t need them.
+    \u2018Someone always does\u2019, he\u2019d say, you know? I didn\u2019t like
+    standing near the stand after school. Convenient for the food. For me. For the
+    others. Everyone knew me if they knew him. Now I keep wishing I stayed longer.\u201D"
+  - "Witness ; NPC  \u201CI was there earlier. Not when it happened - Before. Two
+    people came by. Didn\u2019t buy anything. Just stood too close. I remember thinking
+    they were waiting for someone else. I keep wondering what would\u2019ve happened
+    if I\u2019d stayed.\u201D "
+  wordSpeed: 0.02
+  bubbleVisibleTime: 2

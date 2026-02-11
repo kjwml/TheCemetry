@@ -45,7 +45,7 @@ public class AppereanceName : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Cloth")) ;
+        if (collision.CompareTag("Cloth")) 
         {
             clothOver = true;
 
@@ -53,7 +53,7 @@ public class AppereanceName : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Cloth")) ;
+        if (collision.CompareTag("Cloth")) 
         {
             clothOver = false;
 
