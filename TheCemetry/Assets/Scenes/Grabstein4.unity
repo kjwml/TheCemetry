@@ -1894,7 +1894,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &977923645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2935,7 +2935,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speechBubble: {fileID: 0}
   dialogueText: {fileID: 736840381}
-  dialogue: []
+  dialogue:
+  - "\u201CTraining tells you to decide fast. Faster than thought. You see movement,
+    you see a shape, and your body finishes the sentence before your brain does.
+    Told myself I followed procedure. Then I saw his name. Where he worked. How long
+    he\u2019d been on the force.t?...\u201D "
+  - "I saw a threat. That wasn\u2019t instinct. That was learned\u2026"
+  - " Why did I feel so confident in that moment?...\u201D "
   wordSpeed: 0.05
   bubbleVisibleTime: 2
 --- !u!4 &1562030908
