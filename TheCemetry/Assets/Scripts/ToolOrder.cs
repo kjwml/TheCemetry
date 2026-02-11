@@ -46,7 +46,7 @@ public class ToolOrder : MonoBehaviour
         {
             spongeTool.SetActive(false);
             brushTool.SetActive(true);
-            shovelTool.SetActive(true);
+            shovelTool.SetActive(false);
             wateringCanTool.SetActive(false);
             clothTool.SetActive(false);
         }
@@ -69,16 +69,23 @@ public class ToolOrder : MonoBehaviour
             clothTool.SetActive(false);
 
 
-            if (shineOpacity != null && !shineOpacity.IsFullyVisible)
+          if (shineOpacity != null)
         {
-            wateringCanTool.SetActive(true);
-            return;
-        }
+                spongeTool.SetActive(false);
+                brushTool.SetActive(false);
+                shovelTool.SetActive(true);
+                wateringCanTool.SetActive(true);
+                clothTool.SetActive(false);
+            }
 
         if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
         {
-            clothActivated = true;
-            clothTool.SetActive(true);
+                spongeTool.SetActive(false);
+                brushTool.SetActive(false);
+                shovelTool.SetActive(false);
+                wateringCanTool.SetActive(true);
+                clothTool.SetActive(true);
+                clothActivated = true;
         }
     }
 }
