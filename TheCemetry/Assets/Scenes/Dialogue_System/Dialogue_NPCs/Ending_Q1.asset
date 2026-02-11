@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2effc6c8484a4541877dbfe23a82f8a, type: 3}
+  m_Name: Ending_Q1
+  m_EditorClassIdentifier: 
+  sentences:
+  - name: Wife
+    text: "People think grief is loud. It isn\u2019t. It\u2019s waking up and realizing
+      you don\u2019t know what to do with the morning anymore."
+  - name: Wife
+    text: "It\u2019s waking up and realizing you don\u2019t know what to do with
+      the morning anymore."

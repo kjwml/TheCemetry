@@ -13,16 +13,16 @@ public class ToolOrder : MonoBehaviour
     public GameObject wateringCanTool;
     public GameObject clothTool;
     private Opacity shineOpacity;
-    
 
-    
+
+
     void Start()
     {
-            spongeTool.SetActive(true);
-            brushTool.SetActive(false);
-            shovelTool.SetActive(false);
-            wateringCanTool.SetActive(false);
-            clothTool.SetActive(false);
+        spongeTool.SetActive(true);
+        brushTool.SetActive(false);
+        shovelTool.SetActive(false);
+        wateringCanTool.SetActive(false);
+        clothTool.SetActive(false);
 
         if (shineGraveStone != null)
         {
@@ -36,7 +36,7 @@ public class ToolOrder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
         spongeTool.SetActive(true);
         brushTool.SetActive(false);
         shovelTool.SetActive(false);
@@ -69,27 +69,17 @@ public class ToolOrder : MonoBehaviour
             wateringCanTool.SetActive(true);
             clothTool.SetActive(false);
 
+            if (shineOpacity != null && shineOpacity.IsFullyVisible && !clothTool.activeSelf)
 
-          if (shineOpacity != null)
-        {
-                spongeTool.SetActive(false);
-                brushTool.SetActive(false);
-                shovelTool.SetActive(true);
-                wateringCanTool.SetActive(true);
-                clothTool.SetActive(false);
-            }
-
-        if (shineOpacity != null && shineOpacity.IsFullyVisible)
-        {
+            {
                 spongeTool.SetActive(false);
                 brushTool.SetActive(false);
                 shovelTool.SetActive(false);
                 wateringCanTool.SetActive(true);
                 clothTool.SetActive(true);
-             
-        }
-         
-            
+            }
+
+
         }
     }
 }
