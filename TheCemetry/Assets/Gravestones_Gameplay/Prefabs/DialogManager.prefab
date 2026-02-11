@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1961217864587457082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1065521921966348606}
+  - component: {fileID: 5551166701328841805}
+  m_Layer: 0
+  m_Name: DialogManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1065521921966348606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961217864587457082}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.32600397, y: -0.737913, z: -9.9394045}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5551166701328841805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961217864587457082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39494524dd17c314297476e7d6ff65a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - "He wasn\u2019t trying to be a hero, he just wanted to help. The boring kind
+    of good. Showing up. Stepping in. Making things quieter, not louder. He didn\u2019t
+    even like the uniform all that much. \u2018It makes conversations shorter.\u2019 
+    People stopped talking like humans once they saw it. He said it mattered to be
+    seen doing the right thing. Maybe it would make the jokes stop."
+  - "That night he was off duty. No uniform. No badge out. He saw the cars and ran
+    anyway; because someone needed help and he was right there. That\u2019s it. I
+    keep thinking about that part. How instinct still overrode fear.\r\n"
+  - "Now everyone wants to argue about procedures, about what should have happened.
+    About how fast decisions are made. No one wants to talk about how hard he worked
+    to be seen as trustworthy. How careful he was. How often he swallowed things
+    just to keep the peace. \u2018It was a mistake.\u2019 - My ass. That word feels
+    too clean. Like something you wipe up and forget."
+  - "He learned this place\u2019s rules better than most people born into them. And
+    still, it wasn\u2019t enough. I keep finding myself defending him to strangers.
+    As if love needs documentation. He deserved to be met as a person first. That\u2019s
+    the part they skipped.\u201D"
+  dialogueText: {fileID: 0}
+  typingSpeed: 0.05
+  delayBetweenLines: 1
