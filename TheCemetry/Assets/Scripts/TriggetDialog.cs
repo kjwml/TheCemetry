@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public enum ToolTyp
 {
@@ -17,7 +18,7 @@ public class TriggerDialogue : MonoBehaviour
 {
 
     public GameObject speechBubble;
-    public Text dialogueText;
+    public TMP_Text dialogueText;
 
     public string[] dialogue;
 
