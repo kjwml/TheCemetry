@@ -262,6 +262,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7928735027608884727, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 571642255}
+    - targetCorrespondingSourceObject: {fileID: 7928735027608884727, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 571642262}
   m_SourcePrefab: {fileID: 100100000, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
 --- !u!4 &185341426 stripped
 Transform:
@@ -853,6 +856,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6215121412342430556, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
   m_PrefabInstance: {fileID: 102348200}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &571642262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571642254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46d27f670985dc41a94b9a6d6435262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toolType: 4
+  dialogue: {fileID: 1446908971}
 --- !u!1 &600645090 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3954622300361632228, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
@@ -949,6 +966,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2064087175961037294, guid: e1221f8dabbef7946a496fb25fad3b60, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 2420500871193001083, guid: e1221f8dabbef7946a496fb25fad3b60, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1048,6 +1069,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2315866492729557765, guid: 476e36ccb581a439f80b3f925ace049f, type: 3}
   m_PrefabInstance: {fileID: 1939747882}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &786911656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 786911654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46d27f670985dc41a94b9a6d6435262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toolType: 3
+  dialogue: {fileID: 1446908971}
 --- !u!1 &905454768 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8161884690659408713, guid: b4f1acf35a25d421a96511231628509c, type: 3}
@@ -1058,6 +1093,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4240743114364891862, guid: b4f1acf35a25d421a96511231628509c, type: 3}
   m_PrefabInstance: {fileID: 1193064723}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &905454770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905454768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46d27f670985dc41a94b9a6d6435262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toolType: 2
+  dialogue: {fileID: 1446908971}
 --- !u!1 &1016459689
 GameObject:
   m_ObjectHideFlags: 0
@@ -1417,7 +1466,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2994663201515842202, guid: 63d5c2a10f7ab4518a158354823feea5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2070259536}
   m_SourcePrefab: {fileID: 100100000, guid: 63d5c2a10f7ab4518a158354823feea5, type: 3}
 --- !u!1001 &1193064723
 PrefabInstance:
@@ -1474,7 +1526,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8161884690659408713, guid: b4f1acf35a25d421a96511231628509c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 905454770}
   m_SourcePrefab: {fileID: 100100000, guid: b4f1acf35a25d421a96511231628509c, type: 3}
 --- !u!1 &1249189269 stripped
 GameObject:
@@ -1578,10 +1633,102 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2762272201828707803, guid: fd8a98f0b852e414181580f97981cb26, type: 3}
   m_PrefabInstance: {fileID: 1698988056}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1305334170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305334168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46d27f670985dc41a94b9a6d6435262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toolType: 1
+  dialogue: {fileID: 1446908971}
 --- !u!4 &1362936820 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4288949061225473235, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
   m_PrefabInstance: {fileID: 2094057450}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1446908970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1446908972}
+  - component: {fileID: 1446908971}
+  m_Layer: 0
+  m_Name: DialogueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1446908971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446908970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 036f1ca899ae095419812cc154bd0af0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechBubble: {fileID: 1481523813}
+  dialogueText: {fileID: 0}
+  dialogue:
+  - "\u201CWhat he was like? People keep asking me what he was like. As if that\u2019s
+    difficult, you don\u2019t have to ask me for that. Ah, Askim\u2026 He always
+    woke up earlier than he needed to. Said food tastes better when you make it before
+    the world gets loud. I used to complain about the smell of oil in his clothes.
+    Now I miss it. The stand wasn\u2019t just work. It kept us afloat. It was\u2026
+    how he stayed visible. Everyone knew where to find him. *They* keep asking questions.
+    Not about the day itself. About him. What kind of people came by. What he talked
+    about. As if kindness could be suspicious. As if the problem started at our counter."
+  - "If you\u2019re taking care of the grave, don\u2019t make it grand. He never
+    liked things that tried too hard. He liked simple things. Warm food. A clean
+    counter. Knowing someone would be fed before school let out\u2026 That\u2019s
+    enough.\u201D"
+  - "\u201CPeople think grief is loud. It isn\u2019t. It\u2019s waking up and realizing
+    you don\u2019t know what to do with the morning anymore.\u201D"
+  - "\u201CYou\u2019re that cleaner from yesterday, yes? Anne told me. Thank you
+    for this, he\u2026 I know he\u2019d be grateful too. Reminds me of how he always
+    used to pack extra napkins. I also always told him we didn\u2019t need them.
+    \u2018Someone always does\u2019, he\u2019d say, you know? I didn\u2019t like
+    standing near the stand after school. Convenient for the food. For me. For the
+    others. Everyone knew me if they knew him. Now I keep wishing I stayed longer.\u201D"
+  - "Witness ; NPC  \u201CI was there earlier. Not when it happened - Before. Two
+    people came by. Didn\u2019t buy anything. Just stood too close. I remember thinking
+    they were waiting for someone else. I keep wondering what would\u2019ve happened
+    if I\u2019d stayed.\u201D "
+  wordSpeed: 0.05
+  bubbleVisibleTime: 2
+--- !u!4 &1446908972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446908970}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.2544641, y: 0.36188695, z: -9.929304}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1481523813 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4960133480228298776, guid: 6a2005ac0dacab143a0a5628d22cd822, type: 3}
+  m_PrefabInstance: {fileID: 1700326891}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1596743679
 GameObject:
@@ -1898,7 +2045,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8990236702177232702, guid: fd8a98f0b852e414181580f97981cb26, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1305334170}
   m_SourcePrefab: {fileID: 100100000, guid: fd8a98f0b852e414181580f97981cb26, type: 3}
 --- !u!1001 &1700326891
 PrefabInstance:
@@ -2401,7 +2551,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2718694567737798433, guid: 476e36ccb581a439f80b3f925ace049f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 786911656}
   m_SourcePrefab: {fileID: 100100000, guid: 476e36ccb581a439f80b3f925ace049f, type: 3}
 --- !u!1 &1978608077 stripped
 GameObject:
@@ -2711,6 +2864,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6611471082228044972, guid: 63d5c2a10f7ab4518a158354823feea5, type: 3}
   m_PrefabInstance: {fileID: 1101464603}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2070259536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070259534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b46d27f670985dc41a94b9a6d6435262, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toolType: 0
+  dialogue: {fileID: 1446908971}
 --- !u!1001 &2094057450
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3141,3 +3308,4 @@ SceneRoots:
   - {fileID: 2094057450}
   - {fileID: 1700326891}
   - {fileID: 69529128}
+  - {fileID: 1446908972}
