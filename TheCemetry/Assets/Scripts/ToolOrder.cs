@@ -35,48 +35,51 @@ public class ToolOrder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Erst alles deaktivieren
+        
         spongeTool.SetActive(true);
         brushTool.SetActive(false);
         shovelTool.SetActive(false);
         wateringCanTool.SetActive(false);
         clothTool.SetActive(false);
 
-        // 1️⃣ Brauner Dreck NOCH da → Sponge
-        if (BrownDirtParent.childCount > 0)
+        if (BrownDirtParent.childCount == 0)
         {
-            spongeTool.SetActive(true);
-            return;
-        }
-
-        // 2️⃣ Grüner Dreck NOCH da → Brush
-        if (GreenDirtParent.childCount > 0)
-        {
+            spongeTool.SetActive(false);
             brushTool.SetActive(true);
-            return;
-        }
-
-        // 3️⃣ Steine NOCH da → Shovel
-        if (RockParent.childCount > 0)
-        {
             shovelTool.SetActive(true);
-            return;
+            wateringCanTool.SetActive(false);
+            clothTool.SetActive(false);
         }
 
-        // 4️⃣ Alles weg → Watering Can
+        if (GreenDirtParent.childCount == 0)
+        {
+            spongeTool.SetActive(false);
+            brushTool.SetActive(true);
+            shovelTool.SetActive(true);
+            wateringCanTool.SetActive(false);
+            clothTool.SetActive(false);
+        }
 
-        // 4️⃣ Alles sauber → Watering Can (Opacity erhöhen)
-        if (shineOpacity != null && !shineOpacity.IsFullyVisible)
+        if (RockParent.childCount == 0)
+        {
+            spongeTool.SetActive(false);
+            brushTool.SetActive(false);
+            shovelTool.SetActive(true);
+            wateringCanTool.SetActive(true);
+            clothTool.SetActive(false);
+
+
+            if (shineOpacity != null && !shineOpacity.IsFullyVisible)
         {
             wateringCanTool.SetActive(true);
             return;
         }
 
-        // 5️⃣ Opacity = 1 → Cloth
         if (!clothActivated && shineOpacity != null && shineOpacity.IsFullyVisible)
         {
             clothActivated = true;
             clothTool.SetActive(true);
         }
     }
+}
 }
