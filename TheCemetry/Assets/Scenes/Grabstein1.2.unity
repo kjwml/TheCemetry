@@ -326,6 +326,18 @@ PrefabInstance:
       propertyPath: '_data._objectReferences.Array.data[0]'
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 4694073929658593304, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8400001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694073929658593304, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.49999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694073929658593304, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6215121412342430556, guid: 7605a4689ed794fbf84703c1adc7bd8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.62
@@ -1141,6 +1153,11 @@ PolygonCollider2D:
       - {x: 0.545, y: -0.015}
       - {x: 0.545, y: 0.024999999}
   m_UseDelaunayMesh: 0
+--- !u!1 &877606887 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3625001586382097673, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
+  m_PrefabInstance: {fileID: 938794833}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &893139294 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4175700219323809246, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
@@ -1171,7 +1188,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ToolsOrder","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RemainingDirt_","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Parent","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ToDestroy","value":{"$content":[3,4,5,6,7,8,null,9,10,null],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ToDestroy","value":{"$content":[3,4,null,null,null,5,null,6,7,null],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DestroyCount","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
@@ -1179,8 +1196,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4127750004450676893, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 11
+      value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4127750004450676893, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[5]'
+      value: 
+      objectReference: {fileID: 877606887}
+    - target: {fileID: 4127750004450676893, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[6]'
+      value: 
+      objectReference: {fileID: 1743899172}
+    - target: {fileID: 4127750004450676893, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[7]'
+      value: 
+      objectReference: {fileID: 1650326927}
     - target: {fileID: 4127750004450676893, guid: 7aecff3e3dc5fd442ad5ebeb7cc0d5d4, type: 3}
       propertyPath: '_data._objectReferences.Array.data[9]'
       value: 
@@ -2291,6 +2320,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shine_Animation
       objectReference: {fileID: 0}
+    - target: {fileID: 3489098055066349459, guid: d5a33d632ede2d54ab396f347db461b3, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6106600643694862107, guid: d5a33d632ede2d54ab396f347db461b3, type: 3}
     m_RemovedGameObjects: []
@@ -3026,9 +3059,9 @@ GameObject:
   - component: {fileID: 2110786242}
   - component: {fileID: 2110786241}
   - component: {fileID: 2110786244}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: story1_gravestone_name
-  m_TagString: Untagged
+  m_TagString: Name
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3120,9 +3153,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1345412831
-  m_SortingLayer: 4
-  m_SortingOrder: 0
+  m_SortingLayerID: 911620205
+  m_SortingLayer: 10
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 3a3160255a4121f41bab6efc5102ccaa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
